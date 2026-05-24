@@ -1,0 +1,1001 @@
+startup_id,startup_name,industry,founding_year,city,employees,monthly_active_users,monthly_revenue,monthly_burn_rate,funding_raised_usd,funding_stage,business_model,remote_friendly,customer_rating,churn_rate,ai_adoption_score,profitable,growth_level
+ST0001,"Williams, Chen and Cox",FinTech,2024,Kolkata,332,30184,134803.67,75158.18,11199376.37,Seed,B2B,True,4.3,0.27,70,True,Low
+ST0002,"Hamilton, Stanley and Arellano",ClimateTech,2024,Mumbai,116,61990,2531722.89,593680.82,9981940.65,Seed,B2C,False,4.1,0.22,29,True,Medium
+ST0003,"Martin, Bush and King",SaaS,2019,Bangalore,179,73842,785842.7,1135053.12,16862897.53,Series C,B2B,False,2.7,0.05,45,False,Low
+ST0004,"Kennedy, Hall and Douglas",AI,2025,Delhi,45,145714,1472959.62,1498341.28,44278314.81,Series B,B2B,True,3.4,0.08,9,False,Medium
+ST0005,Payne PLC,Cybersecurity,2025,Hyderabad,448,27476,1906829.86,1505315.17,41713815.81,Series A,B2C,True,2.9,0.15,86,True,Low
+ST0006,Sanchez and Sons,AI,2018,Bangalore,241,100471,1357039.66,1903938.22,34423689.82,Series B,Subscription,False,3.0,0.14,99,False,Medium
+ST0007,"Bell, Cunningham and Moore",ClimateTech,2017,Mumbai,38,56307,4566549.26,4280382.19,35909817.82,Series A,B2C,False,3.0,0.2,83,True,Medium
+ST0008,Alvarez-Wilson,FinTech,2015,Hyderabad,387,154245,2147884.8,2058946.91,18131722.36,Series A,B2C,False,5.0,0.06,64,True,Medium
+ST0009,Smith-Lopez,FinTech,2025,Ahmedabad,310,17653,1929988.89,1881073.24,23429091.89,Series B,Marketplace,True,3.1,0.23,2,True,Low
+ST0010,Flynn Group,HealthTech,2023,Hyderabad,155,114971,799207.19,163213.22,36118498.46,Series B,B2C,True,4.3,0.39,98,True,Low
+ST0011,"Goodman, Rose and Joseph",FinTech,2020,Mumbai,196,43349,2701501.36,3274798.91,26541165.93,Series A,B2B,True,2.5,0.14,3,False,Medium
+ST0012,Williams Inc,HealthTech,2017,Noida,454,149729,4735277.73,1474326.3,24325223.64,Series A,Marketplace,False,2.7,0.31,99,True,High
+ST0013,Adams Inc,E-commerce,2022,Ahmedabad,498,56521,4645278.33,5489997.83,34508888.22,Series C,B2B,True,4.3,0.17,86,False,High
+ST0014,"Russell, Carter and Brennan",AI,2018,Hyderabad,120,17784,1697046.96,1637313.17,11544230.89,Seed,Marketplace,True,3.1,0.04,81,True,Medium
+ST0015,Nelson-Morris,ClimateTech,2018,Noida,268,63391,1399601.55,1163123.26,26984734.87,Series C,B2C,True,4.3,0.35,74,True,Low
+ST0016,Edwards-Shaffer,FinTech,2015,Kolkata,54,173748,2160945.4,1622118.44,23377882.17,Series B,B2B,True,4.3,0.27,83,True,Medium
+ST0017,Martin LLC,ClimateTech,2023,Hyderabad,103,50862,2686065.91,1026713.74,9215227.39,Seed,B2B,True,3.7,0.35,10,True,Medium
+ST0018,"Moreno, Simmons and Reid",HealthTech,2021,Bangalore,479,198542,4244991.71,1766784.41,24307774.22,Series C,Marketplace,False,3.0,0.17,8,True,High
+ST0019,Parker Ltd,Cybersecurity,2018,Bangalore,151,111888,3485991.6,4007694.34,39178908.35,Seed,Marketplace,True,4.2,0.2,25,False,Medium
+ST0020,"Irwin, Wright and Bruce",FinTech,2024,Hyderabad,30,154138,2389174.7,3333384.35,26579750.46,Series A,Subscription,True,2.6,0.21,24,False,Medium
+ST0021,Vazquez Ltd,E-commerce,2019,Delhi,487,150336,1238614.59,1205017.04,30988106.44,Series B,B2C,False,3.5,0.24,67,True,Medium
+ST0022,"Crosby, Johnson and Jones",SaaS,2024,Hyderabad,207,35308,3361734.21,1983410.42,15843050.95,Seed,B2C,False,4.4,0.04,59,True,Medium
+ST0023,Carr-Pena,Cybersecurity,2024,Ahmedabad,72,92490,4405512.23,5916828.99,18507878.08,Seed,Marketplace,True,2.9,0.34,91,False,Medium
+ST0024,Collins-Morgan,E-commerce,2018,Mumbai,485,36203,1329684.95,1803885.87,37133713.36,Series C,Marketplace,True,2.9,0.12,27,False,Low
+ST0025,"Gallagher, Combs and Perez",HealthTech,2022,Ahmedabad,52,167273,2123643.11,1188569.69,227107.17,Series C,B2B,True,4.4,0.26,34,True,Medium
+ST0026,Rivera and Sons,AI,2019,Chennai,43,182146,4520603.57,4110437.35,41738021.24,Seed,Marketplace,True,4.0,0.07,17,True,High
+ST0027,Barnett-Wood,HealthTech,2018,Pune,354,66412,3337997.72,2202351.56,28016181.78,Series A,Subscription,True,4.7,0.39,96,True,Medium
+ST0028,Pugh-Dixon,Cybersecurity,2017,Hyderabad,96,194085,4623191.6,5626897.8,20615072.67,Series C,B2B,False,4.2,0.3,32,False,High
+ST0029,"Torres, White and Roberts",EdTech,2021,Chennai,118,53316,4084767.16,3261254.43,15294283.82,Series B,B2B,False,4.5,0.1,4,True,High
+ST0030,"Lopez, Oliver and Reilly",HealthTech,2024,Mumbai,184,169160,2551934.32,2764698.15,42190875.11,Seed,B2B,False,3.3,0.02,34,False,Medium
+ST0031,Cruz-Mack,Cybersecurity,2015,Kolkata,181,191983,3934276.61,3018817.85,49212580.67,Seed,B2C,False,2.8,0.36,25,True,Medium
+ST0032,Jenkins-Hernandez,Robotics,2019,Kolkata,225,19343,4744883.68,6628612.53,31176612.73,Series B,Subscription,False,4.2,0.06,39,False,High
+ST0033,Shepard PLC,Cybersecurity,2021,Ahmedabad,288,34367,967282.06,1029583.02,18988306.59,Seed,Marketplace,False,4.4,0.08,73,False,Medium
+ST0034,"Dunn, Sweeney and Luna",ClimateTech,2017,Hyderabad,112,113692,3930936.55,3886359.89,16146349.03,Series B,Marketplace,True,3.6,0.27,66,True,Medium
+ST0035,"Mendoza, Blake and Hernandez",SaaS,2016,Noida,424,197906,1181994.31,713387.11,40337816.58,Series C,B2C,False,2.9,0.03,61,True,Medium
+ST0036,Byrd-Williams,Gaming,2018,Pune,258,105766,1227482.35,1292385.99,326963.67,Series C,B2B,True,4.4,0.31,14,False,Low
+ST0037,Oliver PLC,ClimateTech,2024,Ahmedabad,474,32813,2287744.51,2841016.26,33395507.74,Series C,Subscription,True,5.0,0.24,97,False,Medium
+ST0038,Hernandez-Gonzalez,EdTech,2019,Noida,385,125433,2255848.09,2655832.11,42001151.25,Seed,Marketplace,True,3.2,0.31,63,False,Medium
+ST0039,Clark-Schaefer,EdTech,2016,Kolkata,144,89040,1605350.75,1448344.06,6961784.37,Series C,Marketplace,False,3.1,0.28,91,True,Low
+ST0040,"Martin, Walker and Johnson",SaaS,2021,Noida,217,17322,1042103.6,777603.71,45246681.99,Seed,Marketplace,False,4.0,0.28,98,True,Low
+ST0041,Holder Group,EdTech,2022,Delhi,390,103232,4268705.27,6144628.1,20980113.07,Series B,Subscription,False,4.4,0.22,78,False,High
+ST0042,Caldwell LLC,SaaS,2023,Bangalore,19,102936,1687286.42,1827136.23,20245617.62,Series C,B2B,True,2.9,0.19,17,False,Medium
+ST0043,Miles Inc,E-commerce,2021,Mumbai,334,113358,687140.44,549855.26,2561717.44,Series C,Marketplace,True,3.4,0.09,42,True,Medium
+ST0044,Miles Ltd,AI,2015,Delhi,245,6081,3747631.06,1003283.15,47598388.63,Series A,B2B,True,3.1,0.04,84,True,Medium
+ST0045,Blackwell-Fisher,HealthTech,2024,Jaipur,127,34088,2373069.69,827504.3,47390463.26,Seed,B2C,False,3.7,0.11,48,True,Medium
+ST0046,Cobb Inc,EdTech,2016,Jaipur,60,152698,138135.34,83647.08,33883496.98,Series A,B2B,False,4.9,0.16,92,True,Medium
+ST0047,Johnson-Padilla,E-commerce,2016,Ahmedabad,440,180374,3006053.96,1074278.27,49193025.36,Series B,B2B,False,4.5,0.15,55,True,High
+ST0048,Christian PLC,HealthTech,2023,Mumbai,426,129503,536638.96,777602.65,31797476.05,Series C,Subscription,False,4.6,0.29,56,False,Low
+ST0049,Gregory-Mccoy,EdTech,2022,Jaipur,427,192634,2966448.35,1836219.54,12312483.7,Series C,Marketplace,True,4.8,0.12,58,True,High
+ST0050,"Garcia, Avery and Cooper",Cybersecurity,2023,Bangalore,258,86200,917380.89,436449.28,39901726.22,Series A,B2B,True,3.4,0.35,90,True,Low
+ST0051,"Walker, Butler and Lawrence",FinTech,2019,Delhi,373,107542,2448003.46,2902387.3,34545936.51,Series C,B2C,False,4.1,0.2,3,False,Medium
+ST0052,Blackburn LLC,ClimateTech,2019,Mumbai,344,153451,1851412.05,1702400.86,17220681.84,Series B,B2C,True,5.0,0.22,46,True,Medium
+ST0053,Allen PLC,ClimateTech,2019,Jaipur,374,51484,1584584.24,1847221.76,47546334.14,Series B,B2B,True,4.2,0.08,95,False,Medium
+ST0054,Griffin PLC,Robotics,2019,Pune,156,60633,1810796.54,1073707.94,35415523.36,Series C,B2B,True,2.8,0.03,7,True,Medium
+ST0055,Richardson-Gutierrez,FinTech,2016,Kolkata,298,75537,2352290.76,1817402.04,9258965.34,Series C,B2B,True,2.6,0.38,62,True,Low
+ST0056,"Gibson, Hoffman and Villarreal",SaaS,2024,Jaipur,82,40111,4057598.96,5818042.38,4304786.37,Series A,Subscription,False,3.1,0.23,54,False,Medium
+ST0057,Krueger Group,FinTech,2018,Delhi,470,117056,1493792.13,1441632.91,21470050.32,Series B,B2B,True,3.9,0.03,95,True,Medium
+ST0058,Barker LLC,EdTech,2019,Mumbai,127,46564,2764441.31,1115431.06,20455452.75,Series C,B2B,True,4.2,0.19,5,True,Medium
+ST0059,Burgess Ltd,EdTech,2025,Pune,478,70351,3941261.85,3990824.83,33076092.99,Series B,B2C,True,4.8,0.18,70,False,High
+ST0060,"Smith, Cole and Velasquez",Cybersecurity,2021,Mumbai,35,44495,3965216.55,3860365.31,41220803.05,Series C,Subscription,True,4.8,0.18,60,True,Medium
+ST0061,Rodriguez Group,SaaS,2024,Bangalore,311,11449,4448220.22,5137223.29,30205496.37,Series B,B2B,True,2.6,0.1,87,False,Medium
+ST0062,Vargas Ltd,FinTech,2022,Chennai,245,137043,3261032.35,4535752.37,9115382.9,Series C,Marketplace,False,4.0,0.26,63,False,Medium
+ST0063,Estrada-Mitchell,Robotics,2015,Noida,348,28420,4290088.14,2697370.45,34699000.02,Seed,Marketplace,False,3.2,0.38,98,True,Medium
+ST0064,Phillips Inc,ClimateTech,2021,Bangalore,170,31388,4851221.79,3519210.05,25754082.8,Series A,Marketplace,False,5.0,0.27,70,True,High
+ST0065,"Torres, Gonzalez and Morgan",ClimateTech,2016,Bangalore,325,116878,3802352.77,1766670.85,27483520.97,Series A,B2C,False,4.8,0.18,90,True,High
+ST0066,Miller-Fuller,HealthTech,2022,Mumbai,287,4584,2765734.53,888276.38,49613244.11,Series B,Subscription,False,4.8,0.19,16,True,Medium
+ST0067,"Gutierrez, Rivera and Johnson",FinTech,2019,Kolkata,246,64892,2289364.5,888352.54,9570988.03,Series B,Marketplace,True,4.0,0.3,18,True,Medium
+ST0068,"Davis, Walsh and Carroll",ClimateTech,2020,Chennai,149,191329,1499793.69,1444329.88,49945171.54,Series C,Subscription,False,3.7,0.07,69,True,Medium
+ST0069,Gomez-Roth,ClimateTech,2021,Kolkata,450,50454,4904065.41,2503266.49,19179393.9,Series A,Subscription,True,4.6,0.17,41,True,High
+ST0070,"Thompson, Rubio and Anderson",AI,2017,Kolkata,69,132672,4827114.41,3048772.23,5063211.88,Series A,B2B,False,4.6,0.05,59,True,High
+ST0071,Phillips-Turner,Gaming,2020,Noida,405,70474,1699420.56,1870239.48,32509340.8,Seed,B2B,True,4.6,0.34,69,False,Medium
+ST0072,Taylor Ltd,FinTech,2022,Pune,328,180411,4605436.2,6892743.13,37350980.02,Series B,B2B,True,3.6,0.05,82,False,High
+ST0073,"Mclean, Davenport and Miranda",HealthTech,2017,Hyderabad,171,15711,1473905.2,1013005.34,7321211.3,Series C,B2C,False,3.8,0.23,24,True,Low
+ST0074,Le Group,Cybersecurity,2025,Ahmedabad,472,153871,724157.42,578960.15,12736168.1,Series A,B2B,False,3.1,0.01,60,True,Medium
+ST0075,Simon-Thompson,EdTech,2021,Noida,488,91587,4938381.96,2908215.72,48103352.19,Seed,B2C,False,4.2,0.19,39,True,High
+ST0076,Hull-Morris,AI,2024,Bangalore,297,95098,2878311.53,4290122.35,14796776.16,Series C,Marketplace,True,4.9,0.27,36,False,Medium
+ST0077,Ponce-Freeman,HealthTech,2025,Hyderabad,315,93358,1102832.65,493155.43,12568808.66,Seed,Marketplace,False,4.4,0.31,88,True,Low
+ST0078,"Cisneros, Ward and Alvarez",HealthTech,2023,Chennai,22,152931,1830657.55,678872.53,45485909.23,Series B,B2C,False,3.3,0.17,26,True,Medium
+ST0079,Snyder-Garza,HealthTech,2018,Kolkata,472,127313,4837246.54,2823422.85,43526328.12,Series B,B2B,False,4.5,0.19,10,True,High
+ST0080,Chang Inc,E-commerce,2016,Delhi,12,70326,2687495.82,2126405.38,33657777.67,Series C,B2B,False,4.2,0.24,82,True,Medium
+ST0081,Ochoa Group,FinTech,2017,Bangalore,473,160929,1114622.33,314526.53,41201574.8,Seed,Marketplace,False,4.8,0.13,53,True,Medium
+ST0082,Swanson-Wade,Robotics,2021,Jaipur,64,26478,1181652.16,1062081.47,19462859.27,Series A,Subscription,True,3.4,0.38,90,True,Low
+ST0083,Harrington Ltd,EdTech,2020,Hyderabad,431,129279,3082104.55,4378958.55,14023020.0,Series B,Marketplace,True,4.2,0.09,57,False,High
+ST0084,"Ramirez, Smith and Gonzalez",SaaS,2015,Bangalore,208,73320,957144.73,343430.84,42409257.76,Series B,B2C,True,3.6,0.27,83,True,Low
+ST0085,"Smith, Robinson and Hanson",E-commerce,2017,Jaipur,407,149000,1033975.82,1322210.22,27732679.03,Seed,Marketplace,True,4.0,0.33,30,False,Low
+ST0086,White-Holland,SaaS,2020,Bangalore,71,142614,1260764.44,538152.58,33069829.25,Series A,Marketplace,True,2.6,0.02,31,True,Medium
+ST0087,"Prince, Mccoy and King",FinTech,2022,Ahmedabad,69,195436,2110593.18,733946.32,3224724.01,Series A,B2B,False,3.6,0.15,76,True,Medium
+ST0088,Williams-Jones,ClimateTech,2016,Hyderabad,239,169647,4820490.65,1345268.93,23975146.45,Series B,B2C,True,3.5,0.28,63,True,High
+ST0089,"Ray, Banks and Weaver",ClimateTech,2023,Jaipur,69,73093,3125344.3,3003374.91,35622032.18,Series C,B2B,True,3.5,0.24,38,True,Medium
+ST0090,Woods-Burton,Gaming,2020,Noida,441,172629,3258074.16,3908553.71,36055953.84,Series C,Subscription,True,3.0,0.19,30,False,Medium
+ST0091,"Mullen, Ingram and Martinez",FinTech,2016,Kolkata,165,112873,1569492.62,833960.47,47681946.26,Seed,Marketplace,True,4.2,0.19,12,True,Medium
+ST0092,Austin PLC,Gaming,2015,Mumbai,289,16723,2936460.76,2731091.56,16515816.77,Series B,Marketplace,True,2.8,0.15,86,True,Medium
+ST0093,Decker-Nichols,FinTech,2019,Jaipur,300,134015,1071566.64,1129171.06,11251031.21,Series A,Subscription,True,2.8,0.34,48,False,Low
+ST0094,Cruz-Bryant,E-commerce,2015,Pune,316,173446,4149009.34,2272337.91,9061782.79,Series A,Subscription,True,4.3,0.13,44,True,High
+ST0095,Campbell-Robinson,HealthTech,2020,Mumbai,77,195240,3169528.34,760224.77,37318282.51,Series B,B2B,True,3.0,0.17,44,True,Medium
+ST0096,Strickland Ltd,ClimateTech,2021,Mumbai,84,42264,3774635.04,999112.83,4124997.3,Series A,B2B,False,3.6,0.18,78,True,Medium
+ST0097,"Rivera, Hull and Craig",SaaS,2015,Bangalore,225,30069,1423399.89,1540164.42,24357306.03,Series A,Marketplace,True,4.2,0.03,51,False,Medium
+ST0098,Mack Group,Gaming,2023,Delhi,397,36975,3823162.87,2203217.16,6043217.97,Series B,B2B,False,3.7,0.18,17,True,Medium
+ST0099,Sosa-Herrera,Gaming,2025,Kolkata,446,195521,221088.29,49604.25,46062063.6,Series B,B2B,False,4.7,0.23,74,True,Medium
+ST0100,"Alvarado, Robinson and Mcdonald",FinTech,2018,Kolkata,15,86136,867647.17,1242382.77,23031840.25,Series C,B2B,False,4.2,0.15,56,False,Medium
+ST0101,"Smith, Adams and Ritter",Robotics,2018,Chennai,450,82336,3731566.08,1821167.23,38966937.54,Series B,B2C,True,2.7,0.26,68,True,Medium
+ST0102,"Herring, Roberts and Bryant",ClimateTech,2022,Jaipur,57,39389,1287281.43,547800.98,7685845.96,Series C,Marketplace,False,4.4,0.04,99,True,Medium
+ST0103,"Green, Smith and Chambers",FinTech,2019,Noida,82,116281,350748.43,271784.61,15175880.74,Series C,B2B,True,3.2,0.03,65,True,Low
+ST0104,Beard Inc,SaaS,2023,Bangalore,193,76255,392887.7,519996.71,42771903.9,Series C,B2C,False,4.0,0.21,60,False,Low
+ST0105,Lawrence LLC,FinTech,2023,Pune,314,125683,2511822.84,3629682.13,22553629.3,Seed,B2C,False,4.5,0.34,92,False,Medium
+ST0106,"Robbins, Taylor and Costa",SaaS,2015,Chennai,229,138381,2618512.7,1064085.19,18673956.51,Seed,Marketplace,True,3.2,0.17,44,True,Medium
+ST0107,Ellis and Sons,E-commerce,2016,Jaipur,290,178833,1938955.38,1022982.23,42585734.69,Series A,Marketplace,False,4.9,0.25,20,True,Medium
+ST0108,"Riley, Clayton and Ward",E-commerce,2017,Ahmedabad,500,172980,3495415.01,2480155.57,29772309.35,Seed,Subscription,False,4.8,0.13,49,True,High
+ST0109,"Yang, Peters and Farrell",HealthTech,2016,Mumbai,14,96052,1551241.69,2228389.88,17119530.64,Seed,B2B,False,4.4,0.08,18,False,Medium
+ST0110,Thompson-Jennings,ClimateTech,2015,Kolkata,453,163013,663934.72,457939.57,8154248.24,Series B,B2C,False,4.6,0.31,22,True,Medium
+ST0111,"Butler, Leonard and Lane",EdTech,2020,Jaipur,317,75692,3764431.91,4588618.39,11738447.07,Series C,Subscription,False,3.1,0.39,61,False,Medium
+ST0112,"Byrd, Burgess and Knight",AI,2025,Noida,403,101105,2519504.39,1875164.01,8144805.75,Series B,B2B,True,3.0,0.25,33,True,Medium
+ST0113,Gonzales Group,ClimateTech,2020,Bangalore,150,22987,3817952.98,2117546.26,45270045.14,Series C,B2B,False,2.9,0.18,29,True,Medium
+ST0114,Mcpherson and Sons,E-commerce,2017,Pune,262,99031,1186532.59,1771354.28,18776888.04,Seed,Marketplace,False,2.6,0.37,92,False,Low
+ST0115,Martin-Walker,HealthTech,2023,Jaipur,361,37383,3796617.36,3074664.62,30786645.45,Series C,B2B,False,4.8,0.02,28,True,High
+ST0116,"Lane, Mason and Allen",SaaS,2023,Bangalore,126,79944,618023.24,315174.15,31965639.02,Series A,B2C,False,4.1,0.03,64,True,Medium
+ST0117,Rodriguez Ltd,FinTech,2023,Ahmedabad,224,1410,3077899.82,1578142.38,20857551.38,Seed,Subscription,False,4.2,0.04,47,True,Medium
+ST0118,"Harrington, Lawson and Lindsey",FinTech,2024,Chennai,27,167637,1940537.79,1329837.16,37378463.75,Series A,B2B,False,3.4,0.04,31,True,Medium
+ST0119,Johnson-Perez,HealthTech,2017,Hyderabad,284,89748,4069409.24,1740143.95,38968172.54,Series C,B2B,False,3.7,0.28,81,True,Medium
+ST0120,Thompson-Bryant,ClimateTech,2019,Bangalore,108,12483,3957634.97,5348852.5,15814011.21,Series A,Marketplace,False,3.3,0.17,70,False,Medium
+ST0121,Allen Ltd,ClimateTech,2021,Chennai,446,13531,4330333.4,2734614.6,6267526.66,Series A,Subscription,False,3.4,0.36,96,True,Medium
+ST0122,Randall LLC,Robotics,2019,Chennai,193,137125,1340936.27,412197.05,21253758.08,Seed,B2B,False,3.6,0.4,24,True,Low
+ST0123,"Weaver, Guerrero and Ortega",E-commerce,2024,Kolkata,343,78500,1539414.32,1513872.54,21334497.84,Series B,B2B,True,4.2,0.15,6,True,Medium
+ST0124,"Hall, Carrillo and James",ClimateTech,2015,Pune,348,168120,2036989.06,1766093.6,37507404.31,Seed,B2C,False,2.9,0.02,78,True,Medium
+ST0125,Jones LLC,FinTech,2024,Pune,190,101362,4747840.89,1149456.65,7714236.26,Series B,Subscription,False,3.6,0.15,57,True,High
+ST0126,"Brown, Ray and Goodwin",FinTech,2019,Mumbai,337,74056,1255562.15,436286.75,36796959.23,Series C,B2C,False,3.7,0.16,72,True,Medium
+ST0127,"Harding, Flores and Castillo",E-commerce,2025,Chennai,360,129765,1008889.92,379793.53,3748899.36,Seed,Marketplace,False,2.9,0.29,12,True,Low
+ST0128,Spencer Inc,EdTech,2017,Delhi,440,42289,3561927.43,5006366.63,31903116.13,Series C,B2B,False,4.5,0.21,16,False,Medium
+ST0129,Boyd-Ryan,Gaming,2022,Ahmedabad,288,151019,1850866.72,2303885.31,27604764.35,Series C,Subscription,True,4.0,0.04,40,False,Medium
+ST0130,Frye-Rivera,Robotics,2025,Jaipur,69,84106,3215269.56,2523880.0,34021444.08,Series A,B2C,False,3.4,0.35,100,True,Medium
+ST0131,Johnson Inc,E-commerce,2023,Mumbai,262,15526,4158640.12,3632708.44,15241020.91,Seed,Marketplace,True,2.9,0.37,29,True,Medium
+ST0132,"Adams, Miller and Jarvis",SaaS,2017,Pune,330,145399,1379510.66,1396794.65,30740692.5,Series B,B2B,True,2.7,0.26,76,False,Low
+ST0133,"Beasley, Sandoval and Andrews",AI,2022,Ahmedabad,46,12917,4743248.8,5702945.96,13269562.6,Series B,Marketplace,False,3.0,0.23,80,False,Medium
+ST0134,Hodges-Dickerson,EdTech,2020,Jaipur,130,180566,2036401.71,1607957.8,34446247.91,Series A,Marketplace,False,2.9,0.17,60,True,Medium
+ST0135,Allen Inc,FinTech,2019,Noida,380,91536,4877116.9,1804513.73,18558482.89,Series A,B2C,True,3.9,0.13,60,True,High
+ST0136,Bryant-Tapia,SaaS,2020,Delhi,30,77077,4727470.61,6256396.09,20935830.43,Series A,Subscription,False,4.9,0.36,42,False,High
+ST0137,"Solis, Coleman and Kelly",E-commerce,2015,Bangalore,260,81882,2491877.66,790084.26,19692447.1,Series B,Subscription,False,3.6,0.1,75,True,Medium
+ST0138,"Gomez, Moore and Rosario",E-commerce,2015,Kolkata,151,141690,50805.26,17260.89,6740050.45,Seed,B2C,False,3.2,0.15,52,True,Low
+ST0139,"Ortiz, Glover and Fritz",SaaS,2016,Pune,288,76655,376923.43,322470.13,38231985.53,Seed,Subscription,False,3.2,0.4,88,True,Low
+ST0140,"Hood, Valdez and Taylor",AI,2015,Pune,411,89889,2793580.87,1886472.44,7256154.6,Series B,Subscription,False,4.0,0.17,6,True,Medium
+ST0141,Thompson Ltd,Cybersecurity,2024,Chennai,81,159927,4466727.14,1705018.01,46571868.34,Series C,Marketplace,False,3.3,0.16,79,True,High
+ST0142,"Lam, Cameron and Patton",AI,2024,Noida,422,5361,1848105.47,1988465.96,48995906.66,Series B,B2C,True,4.0,0.32,93,False,Low
+ST0143,"Anderson, Johnson and Morris",EdTech,2015,Jaipur,303,126946,860855.19,876120.57,31005803.48,Seed,B2C,True,4.6,0.07,88,False,Medium
+ST0144,"Olson, Armstrong and Wallace",AI,2017,Ahmedabad,230,83232,2099713.69,1547170.13,10234389.55,Series A,Marketplace,False,3.8,0.25,61,True,Medium
+ST0145,Edwards Group,Cybersecurity,2024,Noida,274,99782,1575625.47,669856.92,45610601.84,Series A,B2C,False,3.4,0.15,99,True,Medium
+ST0146,Sanders-Campbell,ClimateTech,2020,Noida,290,79249,1132086.52,1658262.01,14915847.54,Series B,Marketplace,False,3.2,0.09,91,False,Medium
+ST0147,"Keith, Scott and Kennedy",Cybersecurity,2015,Mumbai,67,151333,3386345.01,2348777.16,49009018.84,Seed,Marketplace,False,4.5,0.38,19,True,Medium
+ST0148,Harris-White,HealthTech,2016,Jaipur,340,68225,3739219.11,1788030.45,41406187.59,Series A,B2C,True,3.2,0.23,35,True,Medium
+ST0149,Brown Ltd,HealthTech,2015,Ahmedabad,347,140209,1136101.51,571104.06,5054888.05,Series A,Subscription,False,3.3,0.19,88,True,Medium
+ST0150,Bautista Group,SaaS,2018,Ahmedabad,249,171534,1005285.31,1460768.27,16092326.72,Seed,B2C,False,4.1,0.36,12,False,Low
+ST0151,"Alvarez, Perez and Wilson",Cybersecurity,2015,Bangalore,456,47081,4670273.83,1154686.93,41818349.75,Series B,B2B,False,4.5,0.08,96,True,High
+ST0152,"Liu, Riley and Perez",Cybersecurity,2018,Hyderabad,150,120104,4945606.36,4482156.7,24720925.4,Series B,B2C,False,4.8,0.34,60,True,High
+ST0153,Durham-Cox,HealthTech,2024,Kolkata,336,68440,3595804.89,784998.2,16888753.36,Series C,Marketplace,True,3.2,0.27,25,True,Medium
+ST0154,"Rice, Short and Miles",EdTech,2022,Mumbai,210,176441,485971.68,717386.9,23898832.22,Series B,Marketplace,True,4.8,0.01,50,False,Medium
+ST0155,"Pope, Weber and Williams",Robotics,2019,Hyderabad,138,172359,1804164.93,915060.46,33405916.43,Series B,Marketplace,True,3.7,0.07,88,True,Medium
+ST0156,Arnold-Edwards,Robotics,2025,Delhi,117,36014,2396127.68,1896468.63,49442456.2,Series A,B2B,False,3.4,0.28,61,True,Medium
+ST0157,"Hall, Campbell and Cooper",SaaS,2023,Pune,275,185488,1815306.49,2527665.65,5654829.14,Series A,Marketplace,False,4.6,0.36,26,False,Medium
+ST0158,Jimenez Ltd,HealthTech,2023,Kolkata,64,179335,1034953.41,991580.56,4592535.14,Series C,B2B,False,3.8,0.33,59,True,Medium
+ST0159,"Clark, Jones and Carter",Gaming,2020,Hyderabad,349,81784,3619167.6,2586739.69,40831838.64,Seed,B2B,False,4.4,0.24,6,True,Medium
+ST0160,"Nelson, Poole and Cummings",E-commerce,2021,Noida,21,76259,2050246.01,2459605.68,38303092.76,Series C,Subscription,True,4.9,0.26,54,False,Medium
+ST0161,Stewart and Sons,Robotics,2017,Delhi,354,174484,4374023.07,1631015.24,43021314.73,Seed,B2B,False,2.8,0.4,51,True,Medium
+ST0162,Marquez-Green,Cybersecurity,2018,Hyderabad,242,177553,3598278.94,2703626.03,18994859.58,Seed,Subscription,True,3.1,0.19,20,True,Medium
+ST0163,Turner and Sons,AI,2021,Noida,128,55023,345781.61,336143.77,22349731.26,Series A,B2C,True,4.2,0.35,32,True,Low
+ST0164,Walker-Lara,E-commerce,2018,Mumbai,76,133093,4967482.37,2505647.64,45824031.8,Series A,B2C,False,3.9,0.24,99,True,High
+ST0165,Lopez PLC,Robotics,2022,Bangalore,158,73129,314178.61,450241.93,43991708.85,Series B,Subscription,False,4.8,0.25,55,False,Low
+ST0166,Moyer-King,Cybersecurity,2017,Noida,361,110137,2047213.29,1207559.08,9234754.99,Seed,Subscription,False,3.8,0.1,29,True,Medium
+ST0167,Snow Ltd,FinTech,2023,Delhi,290,139934,679122.83,350234.56,10206669.82,Seed,Marketplace,False,4.1,0.37,48,True,Low
+ST0168,Bond LLC,EdTech,2022,Delhi,349,159589,3018581.0,4031938.55,9448756.53,Series B,Marketplace,True,4.4,0.29,72,False,Medium
+ST0169,Moore and Sons,EdTech,2021,Delhi,113,50813,4810767.01,1695848.57,49978621.75,Series B,Marketplace,False,3.7,0.1,78,True,High
+ST0170,Hines-Hopkins,ClimateTech,2020,Delhi,243,140893,3247119.49,1951353.11,18014248.67,Series B,Marketplace,False,4.7,0.19,93,True,High
+ST0171,Underwood-Williams,Gaming,2019,Pune,28,148462,4321783.36,5028948.53,860184.06,Series A,Marketplace,True,3.9,0.24,93,False,High
+ST0172,"Hale, Phelps and Smith",ClimateTech,2022,Pune,199,150366,4168479.95,3539422.67,32747667.91,Series B,B2C,True,4.2,0.11,63,True,High
+ST0173,Lee-Watts,FinTech,2025,Bangalore,373,144273,2446698.44,3405728.89,27129735.92,Seed,Subscription,True,4.1,0.03,5,False,Medium
+ST0174,"Ramirez, Kerr and Shelton",SaaS,2022,Noida,436,166334,1164852.63,1303843.35,506616.01,Seed,B2B,False,3.8,0.16,80,False,Medium
+ST0175,"Silva, Gray and Willis",Gaming,2017,Hyderabad,11,5384,2651794.06,1477481.42,48875093.44,Seed,B2C,True,2.5,0.33,87,True,Low
+ST0176,Farmer-Schmidt,ClimateTech,2024,Delhi,103,163471,2637015.37,3322055.82,13402870.6,Series A,Marketplace,True,3.5,0.16,52,False,Medium
+ST0177,"Rios, Jenkins and Rivas",HealthTech,2016,Noida,339,171365,3800333.39,1221999.7,18994237.91,Series C,Marketplace,True,3.9,0.03,2,True,High
+ST0178,Jones-Hamilton,AI,2016,Mumbai,463,139453,4596569.56,2292292.9,45068584.3,Seed,B2C,False,4.2,0.23,35,True,High
+ST0179,"Stone, Carlson and Buckley",SaaS,2018,Jaipur,13,55305,2939310.16,3462304.0,35649934.43,Series C,Marketplace,False,3.5,0.04,21,False,Medium
+ST0180,Murray-Schneider,FinTech,2021,Delhi,391,194919,708353.47,1051920.02,36221970.33,Seed,Marketplace,False,3.8,0.39,7,False,Low
+ST0181,"Gray, Grant and Padilla",Gaming,2017,Jaipur,401,86557,157832.04,87648.1,49629664.63,Series C,B2B,False,3.7,0.15,49,True,Low
+ST0182,Chavez-Thomas,Gaming,2020,Chennai,413,65605,3568411.58,1094251.31,7753337.15,Seed,B2B,True,4.3,0.26,95,True,Medium
+ST0183,Brennan and Sons,Robotics,2023,Kolkata,487,81810,2229231.97,2652229.71,5156459.13,Seed,B2B,True,2.7,0.18,72,False,Medium
+ST0184,"Smith, Harris and Ward",FinTech,2023,Delhi,186,146285,474390.66,463696.44,16255295.01,Series A,Subscription,True,3.5,0.12,50,True,Medium
+ST0185,Nelson-Smith,FinTech,2020,Mumbai,76,71495,1512645.01,1272226.91,3210194.16,Series A,Subscription,True,3.6,0.17,62,True,Medium
+ST0186,"Allen, Burns and Robinson",ClimateTech,2020,Kolkata,239,29042,686092.73,143254.5,19814814.32,Series A,Marketplace,False,4.6,0.16,43,True,Low
+ST0187,"Hancock, Simmons and Johnson",ClimateTech,2024,Delhi,313,183266,1012248.93,615890.98,48230502.42,Series B,Subscription,False,4.9,0.12,89,True,Medium
+ST0188,"Anderson, Mendez and Mcgee",Robotics,2015,Noida,423,104005,1831427.53,2585402.98,10030012.43,Series A,Subscription,False,5.0,0.08,99,False,Medium
+ST0189,Zuniga-Hamilton,EdTech,2019,Pune,430,182622,355101.77,462386.65,39762528.96,Series C,Subscription,True,4.2,0.06,39,False,Medium
+ST0190,Garcia Ltd,AI,2020,Ahmedabad,234,157744,2401381.15,1731507.78,25355301.52,Seed,B2B,True,4.8,0.28,70,True,Medium
+ST0191,Bennett-Phillips,E-commerce,2021,Hyderabad,341,175245,1781494.01,1854713.06,2262619.84,Seed,B2B,False,5.0,0.27,52,False,Medium
+ST0192,"Castillo, Edwards and Perry",SaaS,2023,Pune,118,134870,3736796.61,3457999.6,34398837.22,Series B,B2B,False,3.1,0.16,60,True,Medium
+ST0193,"Boyer, Lawson and Chase",E-commerce,2022,Delhi,58,78445,2085717.39,3024803.77,5847663.43,Series C,Marketplace,False,4.9,0.07,40,False,Medium
+ST0194,Fuller-Baldwin,E-commerce,2025,Hyderabad,54,115862,3612749.78,2847502.0,3405358.29,Series A,B2C,True,2.6,0.29,3,True,Medium
+ST0195,Miller LLC,Gaming,2021,Bangalore,287,42978,1661638.38,1253340.93,23129605.17,Series A,Subscription,False,4.5,0.26,24,True,Medium
+ST0196,Reed Ltd,Robotics,2017,Chennai,204,2166,3526630.72,1648769.77,37628658.49,Series B,B2C,False,4.5,0.03,14,True,Medium
+ST0197,Mayer-Gonzalez,SaaS,2016,Chennai,63,69774,3356800.13,2807389.87,48297524.18,Series B,Subscription,True,3.3,0.16,51,True,Medium
+ST0198,Gallegos Inc,EdTech,2019,Hyderabad,421,177577,3532881.92,2072665.11,30743501.56,Series A,Marketplace,True,2.7,0.06,16,True,High
+ST0199,Bowman-Mack,HealthTech,2023,Pune,266,102833,2097013.14,795245.03,19216312.64,Series C,Marketplace,True,3.0,0.26,89,True,Medium
+ST0200,Washington Ltd,Gaming,2023,Ahmedabad,100,83465,4211506.22,4233544.92,43282835.43,Series C,Subscription,False,4.9,0.2,25,False,High
+ST0201,Vincent Group,AI,2019,Delhi,217,187159,4201060.09,3509184.84,4179397.76,Series B,B2C,False,2.6,0.31,38,True,Medium
+ST0202,Smith-Robinson,E-commerce,2023,Bangalore,294,195646,3865012.71,3261712.62,25564758.71,Series C,B2C,False,3.9,0.11,70,True,High
+ST0203,Castillo LLC,FinTech,2022,Hyderabad,57,193935,4152052.88,4885924.67,14920561.31,Series A,B2C,False,5.0,0.19,45,False,High
+ST0204,Carrillo Ltd,SaaS,2020,Ahmedabad,445,187319,3055206.4,2311621.65,30826752.43,Series B,B2C,False,4.5,0.33,8,True,Medium
+ST0205,Phelps LLC,HealthTech,2021,Bangalore,365,77712,1453772.88,796007.51,42907941.41,Series B,B2C,True,5.0,0.27,13,True,Medium
+ST0206,Young PLC,Cybersecurity,2025,Kolkata,132,39336,3559860.3,4546035.38,38085605.69,Series C,Subscription,True,4.2,0.2,74,False,Medium
+ST0207,"Sanchez, Baker and Davis",E-commerce,2024,Bangalore,329,25404,2020225.36,2373245.8,34750445.61,Seed,Subscription,False,4.7,0.19,63,False,Medium
+ST0208,Vargas-James,Cybersecurity,2020,Ahmedabad,440,17601,3980432.85,2854092.27,48408022.57,Series A,Subscription,False,4.6,0.2,42,True,Medium
+ST0209,"Giles, Perkins and Thomas",ClimateTech,2022,Bangalore,462,179926,3813647.57,990502.68,31327667.13,Series C,B2C,True,4.6,0.02,21,True,High
+ST0210,"Martin, Farmer and Ford",E-commerce,2025,Pune,456,171392,1516308.87,2026926.46,43835922.11,Seed,Subscription,False,2.7,0.15,11,False,Medium
+ST0211,Schmidt-Williams,HealthTech,2024,Delhi,376,184354,3778608.46,2864186.06,4605399.4,Series C,B2B,True,2.7,0.09,10,True,High
+ST0212,Sanders Ltd,FinTech,2016,Hyderabad,361,91065,4087374.04,6068121.15,21144580.99,Series B,Marketplace,False,2.8,0.04,50,False,High
+ST0213,Wyatt-Vance,SaaS,2015,Jaipur,75,101328,3869567.81,4562627.3,6700654.25,Series A,Subscription,False,5.0,0.07,68,False,High
+ST0214,Hutchinson Inc,FinTech,2017,Hyderabad,374,56851,3144119.39,1247543.72,20614909.22,Series C,Marketplace,False,4.2,0.35,12,True,Medium
+ST0215,Brown Group,AI,2025,Mumbai,166,37655,1246454.01,1293827.66,12445943.01,Series A,B2C,False,4.0,0.29,37,False,Low
+ST0216,Stewart Group,SaaS,2016,Ahmedabad,156,170389,282299.96,385984.88,47735841.99,Seed,Marketplace,False,3.7,0.05,64,False,Medium
+ST0217,Dominguez-Sanders,FinTech,2015,Jaipur,72,102407,4305461.88,4042374.5,18302352.52,Seed,B2B,False,4.2,0.31,99,True,Medium
+ST0218,Ellis-Villarreal,Gaming,2021,Kolkata,115,11440,4613670.65,6612700.31,19928852.44,Seed,B2C,False,3.2,0.29,99,False,Medium
+ST0219,Wells LLC,FinTech,2019,Kolkata,47,82240,404317.59,564913.47,48716953.55,Series A,B2B,True,2.9,0.14,76,False,Low
+ST0220,"Edwards, Jefferson and Gutierrez",FinTech,2015,Pune,49,114897,588773.04,586409.61,2798679.55,Seed,B2C,False,4.2,0.27,23,True,Low
+ST0221,Black PLC,Cybersecurity,2016,Bangalore,492,91886,2619796.76,3190606.55,36052237.63,Series B,Subscription,False,2.9,0.06,100,False,Medium
+ST0222,Chung-Reyes,ClimateTech,2024,Pune,273,17743,1322118.76,1940296.23,31395265.0,Series B,B2C,False,3.7,0.21,8,False,Low
+ST0223,"Peterson, Newman and Johnson",EdTech,2015,Noida,400,27975,4472399.42,4813896.46,5810913.5,Series B,Subscription,True,4.4,0.01,2,False,High
+ST0224,Perez-Sanchez,E-commerce,2019,Hyderabad,96,10270,2768795.29,3843453.26,37046258.11,Series B,B2B,True,3.5,0.14,54,False,Medium
+ST0225,Wise-Caldwell,Cybersecurity,2020,Hyderabad,96,59506,4023646.72,5938250.82,47706266.4,Series C,B2B,False,2.7,0.19,37,False,Medium
+ST0226,Woods Ltd,EdTech,2023,Delhi,107,77439,2823395.64,1680152.21,31154740.32,Series A,B2B,False,3.7,0.24,64,True,Medium
+ST0227,Gilbert-Franco,Gaming,2019,Hyderabad,17,62078,2712310.55,2784795.4,34688367.27,Series A,B2C,False,2.5,0.14,98,False,Medium
+ST0228,Campos and Sons,Gaming,2020,Noida,256,16701,4863070.59,1872698.12,14027272.28,Seed,B2B,True,2.6,0.1,67,True,Medium
+ST0229,Simpson-Santiago,E-commerce,2021,Chennai,331,104376,383404.12,359697.07,21777394.78,Series B,Subscription,False,4.9,0.1,34,True,Medium
+ST0230,Collins-Stevens,ClimateTech,2020,Kolkata,124,20578,4718337.88,1778555.76,38518823.68,Seed,Marketplace,True,2.8,0.05,58,True,High
+ST0231,"Wang, Meyer and Norris",SaaS,2015,Delhi,236,81821,2322099.51,3037832.91,4566523.36,Series B,B2C,True,4.5,0.13,91,False,Medium
+ST0232,"Perez, Lowe and Foley",AI,2021,Noida,369,66069,4842316.02,3462826.39,2495083.35,Series A,B2B,False,3.2,0.33,23,True,Medium
+ST0233,"Pearson, Russell and Parker",E-commerce,2025,Hyderabad,57,37645,616051.74,172599.18,39058951.67,Series B,B2B,True,3.1,0.09,52,True,Low
+ST0234,Smith-Barrera,FinTech,2015,Noida,38,52839,4513455.45,3504520.87,6483137.87,Seed,B2C,False,4.8,0.33,43,True,Medium
+ST0235,Brown Inc,Cybersecurity,2019,Noida,425,190905,1981043.45,472136.1,34176485.19,Series A,B2B,True,2.9,0.09,24,True,Medium
+ST0236,Hernandez-Brooks,EdTech,2025,Ahmedabad,336,78360,2499469.13,3368314.96,23977594.95,Series A,B2B,False,2.7,0.16,54,False,Medium
+ST0237,Gibson-Gonzalez,Cybersecurity,2017,Bangalore,405,188005,1801969.43,1635959.66,24259740.3,Series B,B2C,True,4.8,0.21,50,True,Medium
+ST0238,Hurst-Frey,FinTech,2018,Delhi,463,74644,302370.24,450226.48,26495142.98,Series B,B2B,True,4.4,0.4,21,False,Low
+ST0239,Brown-Bradley,E-commerce,2024,Bangalore,299,102822,1780475.13,2298573.68,42268784.07,Series B,B2C,True,2.9,0.24,95,False,Medium
+ST0240,Jones and Sons,Robotics,2022,Bangalore,433,130034,2715201.76,1162714.01,1946288.87,Series B,B2C,True,2.6,0.24,3,True,Medium
+ST0241,Bradley Ltd,HealthTech,2016,Ahmedabad,179,188940,895524.76,1113273.2,43417444.05,Series B,B2B,False,2.6,0.07,91,False,Medium
+ST0242,Lewis PLC,ClimateTech,2025,Chennai,365,174575,1984021.86,657389.42,15123169.43,Series A,Marketplace,True,2.8,0.07,56,True,Medium
+ST0243,White and Sons,SaaS,2021,Jaipur,345,155389,4074126.64,2818885.54,36713048.92,Seed,B2C,False,3.2,0.08,1,True,High
+ST0244,"Lopez, Ward and Cooke",E-commerce,2020,Pune,476,161269,1112267.3,1040209.42,46837555.29,Seed,Marketplace,False,2.9,0.3,31,True,Low
+ST0245,Christensen and Sons,Gaming,2022,Kolkata,10,70523,1056324.58,1163149.52,17556534.04,Series A,Subscription,False,4.5,0.29,7,False,Low
+ST0246,Collins Inc,EdTech,2017,Noida,456,100277,1762643.53,1212613.86,41448908.53,Seed,B2B,False,4.5,0.24,98,True,Medium
+ST0247,"Mitchell, Hamilton and Kelly",Robotics,2016,Chennai,15,84549,1313027.27,441364.35,17123319.65,Series C,B2B,False,4.7,0.07,10,True,Medium
+ST0248,Schroeder and Sons,Gaming,2023,Ahmedabad,487,172346,833336.0,1130569.66,7897333.68,Series B,Marketplace,False,2.8,0.09,25,False,Medium
+ST0249,Taylor PLC,FinTech,2019,Jaipur,126,26143,257680.86,243070.55,42000732.52,Series C,B2C,True,2.9,0.15,55,True,Low
+ST0250,Wilson PLC,ClimateTech,2022,Mumbai,18,55251,862452.64,499666.17,4142707.93,Seed,Subscription,True,4.6,0.13,51,True,Medium
+ST0251,Kennedy-Ortiz,SaaS,2015,Pune,194,100993,1853314.31,1444673.06,13201633.54,Seed,B2B,False,3.7,0.1,35,True,Medium
+ST0252,"Smith, Duncan and Kelly",Gaming,2023,Noida,418,142937,2075793.4,2456481.36,11414262.29,Series A,Subscription,False,2.7,0.16,67,False,Medium
+ST0253,"James, Wells and Moore",SaaS,2017,Hyderabad,45,104495,4514858.23,5095457.3,25129968.44,Series C,B2C,True,4.8,0.32,87,False,High
+ST0254,"Morton, Newman and Cobb",HealthTech,2024,Mumbai,113,51521,639668.13,479998.89,49414582.82,Series B,B2B,True,3.6,0.4,81,True,Low
+ST0255,"Schroeder, Glover and Barron",SaaS,2024,Ahmedabad,203,146847,1992801.42,1243438.03,13846230.95,Series C,B2B,False,3.6,0.35,90,True,Medium
+ST0256,Maldonado PLC,FinTech,2019,Ahmedabad,81,39849,2837303.7,2716662.15,48243341.65,Series B,Subscription,False,2.8,0.05,100,True,Medium
+ST0257,Barr LLC,Gaming,2015,Kolkata,201,172648,2433068.11,2412753.93,1921410.24,Series B,B2C,True,3.2,0.07,78,True,Medium
+ST0258,Travis LLC,ClimateTech,2025,Hyderabad,386,125575,4604966.56,6291032.57,1060632.79,Series A,B2C,False,4.5,0.13,36,False,High
+ST0259,Bailey PLC,EdTech,2021,Noida,385,117158,3872414.19,2389778.36,36453530.69,Series B,B2B,True,4.0,0.04,57,True,High
+ST0260,Williams-Miller,EdTech,2018,Bangalore,38,82559,3550751.3,2572166.67,39036795.66,Series A,B2B,False,3.8,0.23,23,True,Medium
+ST0261,Bell-Adams,AI,2018,Chennai,30,95470,3526123.39,1961126.68,41184139.27,Series C,Subscription,True,3.8,0.26,16,True,Medium
+ST0262,Carroll-Simpson,FinTech,2019,Bangalore,496,125408,2938532.44,1923821.55,8217505.05,Series C,B2B,True,4.7,0.3,89,True,Medium
+ST0263,Schmidt Ltd,Gaming,2023,Bangalore,442,151014,3901352.37,1867242.5,11106486.3,Seed,Subscription,True,3.1,0.09,84,True,High
+ST0264,Byrd-Green,Cybersecurity,2021,Kolkata,336,46403,3009698.33,635054.91,12656902.55,Series B,Subscription,False,4.5,0.13,91,True,Medium
+ST0265,"West, Fisher and Howard",E-commerce,2023,Jaipur,116,123342,1517704.01,1330767.3,31199124.5,Series B,Marketplace,True,4.0,0.01,85,True,Medium
+ST0266,Becker and Sons,Cybersecurity,2018,Pune,251,17734,1688055.43,944345.85,16290596.66,Series A,B2B,False,3.2,0.27,84,True,Low
+ST0267,Harrington-Peterson,Gaming,2021,Bangalore,343,84777,3406971.19,3876002.63,32787258.49,Series A,Marketplace,True,5.0,0.11,54,False,High
+ST0268,Torres LLC,Robotics,2017,Mumbai,356,141151,3195184.81,2615117.42,47036364.33,Seed,Subscription,True,3.4,0.13,22,True,Medium
+ST0269,Bennett Inc,FinTech,2018,Chennai,384,68804,3628681.32,3362848.31,45635606.9,Series A,Marketplace,False,4.9,0.36,84,True,Medium
+ST0270,Norman Inc,SaaS,2024,Jaipur,408,87852,1864695.32,1792423.28,23214843.38,Seed,Subscription,True,2.8,0.03,82,True,Medium
+ST0271,"Ball, Thomas and West",EdTech,2020,Kolkata,261,32409,4338813.8,3020551.94,14952869.9,Series C,B2C,False,2.6,0.34,18,True,Medium
+ST0272,"Cantrell, Hatfield and Brown",AI,2022,Mumbai,446,188608,909980.28,277593.95,16664840.87,Series A,B2C,True,5.0,0.13,8,True,Medium
+ST0273,Fletcher LLC,AI,2023,Delhi,255,24079,655735.73,500867.24,21499015.66,Series B,B2B,False,3.6,0.2,1,True,Low
+ST0274,"Thompson, Carter and Knox",Cybersecurity,2017,Hyderabad,392,140207,960977.78,1037637.46,31353012.09,Series C,Marketplace,True,3.1,0.28,45,False,Low
+ST0275,Clark and Sons,HealthTech,2020,Noida,38,12984,1498029.24,865974.94,36405203.98,Series B,B2C,True,4.0,0.14,88,True,Low
+ST0276,Robinson LLC,HealthTech,2016,Chennai,490,106746,105432.42,51832.45,49244732.25,Seed,Subscription,False,3.0,0.02,65,True,Low
+ST0277,Love-Grant,FinTech,2021,Noida,399,141177,3119442.54,3032414.11,2445620.77,Series C,B2B,False,2.8,0.34,7,True,Medium
+ST0278,Jones-Lopez,Robotics,2019,Jaipur,247,184990,774104.22,854417.25,31534051.44,Series A,Subscription,True,3.3,0.27,85,False,Low
+ST0279,Kelly-Mcgee,Cybersecurity,2023,Delhi,266,189420,3092312.8,1754945.65,39248765.31,Series B,Subscription,False,3.7,0.25,100,True,Medium
+ST0280,"Roberts, Jackson and Davis",FinTech,2016,Jaipur,87,11329,2745212.43,3797901.51,34425785.58,Series C,B2C,True,3.7,0.1,2,False,Medium
+ST0281,Williamson-King,Cybersecurity,2022,Bangalore,404,135140,384490.59,438568.85,45243730.23,Seed,B2C,True,4.1,0.19,38,False,Low
+ST0282,"Hernandez, Gonzalez and Fleming",AI,2017,Pune,441,77170,1807471.17,1951701.03,21328460.56,Series B,Marketplace,False,2.8,0.34,6,False,Low
+ST0283,"Fields, Lucas and Grant",ClimateTech,2019,Kolkata,494,164002,1348863.9,1555224.33,18662476.56,Series C,Subscription,True,3.4,0.05,52,False,Medium
+ST0284,Salazar Ltd,ClimateTech,2024,Noida,62,35737,3483887.67,962390.23,47126226.05,Series A,Subscription,False,2.9,0.17,76,True,Medium
+ST0285,Boone Group,FinTech,2021,Noida,318,8554,4314253.11,5798077.14,36377567.8,Seed,B2B,False,4.7,0.2,63,False,Medium
+ST0286,Lee LLC,E-commerce,2023,Ahmedabad,340,83375,71677.46,95247.3,26264654.71,Seed,Subscription,True,4.4,0.29,29,False,Low
+ST0287,"Reed, Combs and Johnson",AI,2015,Pune,251,91636,3321916.11,3434282.54,7475289.89,Series C,Subscription,True,4.6,0.36,79,False,Medium
+ST0288,Bowman-Cruz,Gaming,2021,Delhi,43,197982,2463323.33,1264077.43,48508745.19,Seed,Subscription,False,2.6,0.1,83,True,Medium
+ST0289,"Bass, Davis and Torres",AI,2016,Kolkata,415,151217,2246011.94,2950284.9,22381052.59,Series C,B2B,True,2.8,0.2,84,False,Medium
+ST0290,Wilson Inc,ClimateTech,2020,Chennai,427,24827,3960998.59,5751855.66,31895029.21,Seed,B2C,False,4.7,0.23,84,False,Medium
+ST0291,Zavala-Gross,EdTech,2015,Chennai,174,147840,3839407.84,3762375.87,35847070.5,Series B,Marketplace,False,3.4,0.19,13,True,High
+ST0292,"Maxwell, Frey and Willis",Cybersecurity,2024,Delhi,364,28871,238432.77,98568.58,7065436.91,Series A,B2B,False,4.3,0.29,14,True,Low
+ST0293,Mitchell-Hicks,SaaS,2016,Noida,115,120811,4124525.18,1846766.02,16929780.75,Series C,B2C,False,4.4,0.03,82,True,High
+ST0294,Schwartz PLC,HealthTech,2024,Pune,7,140031,3683707.51,3386042.68,21668878.47,Series A,B2B,False,4.0,0.37,100,True,Medium
+ST0295,"Gentry, Elliott and Taylor",EdTech,2019,Kolkata,341,158429,3034742.26,1876675.18,44075458.82,Series B,Marketplace,False,3.5,0.25,89,True,Medium
+ST0296,Pena-Price,E-commerce,2023,Delhi,417,35962,699518.23,687823.53,44327520.93,Series A,B2C,False,3.8,0.34,71,True,Low
+ST0297,"Hernandez, Peters and Farmer",E-commerce,2016,Chennai,356,91516,4606746.9,1715889.98,35534302.36,Series C,Subscription,False,4.9,0.08,70,True,High
+ST0298,Hayes Ltd,Cybersecurity,2017,Mumbai,454,111726,4043440.85,3556404.28,1312343.46,Series B,B2C,True,2.9,0.27,26,True,Medium
+ST0299,Powell-Sutton,Robotics,2018,Ahmedabad,358,78369,1027964.51,928790.31,17966187.75,Series C,B2C,False,3.6,0.25,87,True,Low
+ST0300,Garcia Inc,AI,2015,Mumbai,359,175193,244429.61,170137.04,20857483.56,Series A,Subscription,True,4.5,0.28,71,True,Low
+ST0301,Sanchez-Norton,EdTech,2019,Noida,471,167143,3526099.05,3673920.53,37767629.88,Series A,B2B,True,3.9,0.25,100,False,Medium
+ST0302,Hall and Sons,SaaS,2019,Bangalore,497,46559,3678046.64,1306294.88,2079679.94,Series B,Subscription,True,3.2,0.11,21,True,Medium
+ST0303,Murphy-Watkins,ClimateTech,2024,Ahmedabad,25,41292,4643854.91,4532144.34,38694364.45,Series B,B2B,False,4.1,0.34,39,True,Medium
+ST0304,Ramos PLC,FinTech,2020,Delhi,274,58661,4785368.71,4195754.69,39323599.05,Series A,Marketplace,False,2.9,0.22,52,True,Medium
+ST0305,Moore-Wallace,AI,2016,Chennai,189,77958,1100041.98,1296347.11,26548419.84,Series C,B2C,True,5.0,0.33,84,False,Low
+ST0306,Perry PLC,Cybersecurity,2015,Ahmedabad,495,11453,3415931.29,2108374.67,45800824.89,Series B,Subscription,False,4.9,0.16,70,True,Medium
+ST0307,Davies-Gonzalez,Robotics,2023,Bangalore,27,78708,4492425.23,2022786.81,25719040.27,Seed,B2C,True,4.9,0.08,99,True,High
+ST0308,Johnson-Campbell,Gaming,2025,Hyderabad,447,180674,2126805.17,712702.73,26910822.99,Series A,B2B,False,4.3,0.39,100,True,Medium
+ST0309,"Eaton, Vincent and Fitzpatrick",Cybersecurity,2021,Kolkata,372,87957,199052.71,58764.83,8940708.57,Series C,Subscription,False,3.1,0.04,30,True,Low
+ST0310,Martin LLC,SaaS,2015,Hyderabad,166,5427,1953614.32,691183.84,344651.43,Series B,B2B,False,4.3,0.03,96,True,Medium
+ST0311,Lewis-Cruz,AI,2022,Pune,407,180798,1513740.04,472978.35,38275448.34,Series A,B2C,False,3.6,0.16,85,True,Medium
+ST0312,"Chan, Frederick and Morrison",E-commerce,2015,Ahmedabad,412,144058,1481942.56,1517893.55,14937922.34,Series A,B2B,True,4.7,0.39,94,False,Medium
+ST0313,Morales-Garcia,E-commerce,2018,Kolkata,7,151134,2987307.89,2683491.7,47351620.49,Series A,B2C,True,3.3,0.3,93,True,Medium
+ST0314,"Ward, Scott and Baker",Robotics,2022,Ahmedabad,118,162712,4175394.35,1889884.03,9108831.34,Seed,Marketplace,True,4.5,0.34,97,True,High
+ST0315,"Ramos, Pena and Miller",FinTech,2019,Jaipur,133,26743,995113.79,950109.12,47579418.32,Seed,B2C,False,3.4,0.27,31,True,Low
+ST0316,Murphy LLC,Gaming,2017,Bangalore,253,119134,1648446.93,1742818.75,34688233.56,Series B,B2C,True,2.9,0.23,41,False,Medium
+ST0317,Malone Group,ClimateTech,2022,Chennai,369,194938,3207784.34,1795344.88,18006325.69,Series B,Subscription,True,4.2,0.14,62,True,High
+ST0318,"Parker, Sutton and Hardin",FinTech,2016,Bangalore,94,170227,3037072.05,3930976.18,42942747.09,Seed,Subscription,True,2.9,0.22,34,False,Medium
+ST0319,Castillo Ltd,Gaming,2018,Jaipur,469,10609,2762454.05,2504192.56,49936472.34,Series B,B2C,False,3.7,0.31,47,True,Medium
+ST0320,Mendoza PLC,HealthTech,2023,Pune,261,134801,461864.58,310846.51,579054.58,Series C,B2C,True,3.1,0.39,79,True,Low
+ST0321,Anderson Group,ClimateTech,2018,Hyderabad,294,149324,3300472.4,4812274.34,36809194.45,Series B,Marketplace,True,3.7,0.15,29,False,Medium
+ST0322,Young and Sons,AI,2025,Chennai,26,176265,1041802.63,1437733.39,18094505.66,Seed,Marketplace,False,3.7,0.19,6,False,Medium
+ST0323,"Simmons, Brooks and Thomas",Robotics,2019,Kolkata,301,143698,2855099.16,1969040.38,18956999.93,Series A,Subscription,False,4.0,0.36,10,True,Medium
+ST0324,Snyder Inc,EdTech,2016,Ahmedabad,423,91448,2439439.2,2016789.57,30230338.47,Series B,B2C,True,3.8,0.06,22,True,Medium
+ST0325,Wade Group,FinTech,2022,Noida,100,42250,1817492.49,2058298.47,5960594.63,Series C,B2C,True,3.1,0.33,93,False,Low
+ST0326,Reynolds-Sutton,SaaS,2017,Bangalore,336,108714,122005.73,31244.16,28695651.24,Series A,Marketplace,True,2.9,0.26,6,True,Low
+ST0327,Barber PLC,FinTech,2018,Noida,269,107287,3000794.04,2798798.93,980070.78,Series C,Subscription,True,4.3,0.27,37,True,Medium
+ST0328,Rivera and Sons,HealthTech,2025,Chennai,117,108680,3008185.18,3709095.01,41031636.35,Series C,B2B,True,3.0,0.27,34,False,Medium
+ST0329,"Mccoy, Molina and Nguyen",SaaS,2016,Pune,198,102046,669743.86,148369.31,26159431.58,Series C,B2B,True,4.8,0.28,20,True,Low
+ST0330,Harrison LLC,Gaming,2023,Kolkata,52,127416,3300369.13,4530021.26,26987335.02,Series B,B2B,False,2.5,0.38,87,False,Medium
+ST0331,"Williams, White and Bender",SaaS,2016,Kolkata,122,127385,3949882.37,2747567.58,29472951.9,Series A,Marketplace,False,4.4,0.31,90,True,Medium
+ST0332,Schaefer Ltd,AI,2024,Ahmedabad,397,61951,4551325.93,1406190.65,29934702.88,Seed,B2B,False,3.9,0.11,1,True,High
+ST0333,"Rios, Peters and Jones",Cybersecurity,2023,Kolkata,340,54849,3441956.02,2101906.95,18145376.0,Series B,Marketplace,False,2.9,0.26,33,True,Medium
+ST0334,Bell-George,Cybersecurity,2024,Chennai,391,54397,2072008.51,2525622.85,24149264.46,Series C,B2C,True,3.4,0.23,33,False,Medium
+ST0335,Mcdaniel-Howell,Robotics,2024,Bangalore,387,61233,2238508.44,2482740.62,8131666.13,Series A,Subscription,True,3.0,0.17,44,False,Medium
+ST0336,Jones Inc,FinTech,2024,Bangalore,416,24878,4118044.77,3348667.41,30032259.82,Series C,Subscription,False,2.7,0.11,48,True,Medium
+ST0337,Morales Group,Robotics,2019,Delhi,369,157623,296740.54,357777.39,8804792.86,Seed,B2C,True,3.7,0.01,85,False,Medium
+ST0338,Parrish-Thompson,E-commerce,2025,Kolkata,350,10453,1805102.59,1898110.24,48783512.75,Series C,B2C,True,2.7,0.12,52,False,Low
+ST0339,Hall-Johnson,E-commerce,2019,Delhi,382,185450,352399.69,111786.68,14260464.66,Series A,Subscription,False,4.6,0.37,45,True,Low
+ST0340,Young and Sons,Robotics,2019,Ahmedabad,299,2219,1312926.45,957484.46,5367924.57,Series B,Subscription,False,2.7,0.12,15,True,Low
+ST0341,"Nichols, Pierce and Clarke",AI,2022,Hyderabad,293,127780,3852136.29,4563684.69,48063874.33,Series B,B2B,False,3.6,0.19,76,False,Medium
+ST0342,Moran-Graham,Cybersecurity,2018,Mumbai,329,58771,3387795.75,1690202.4,15820748.17,Seed,Subscription,False,4.9,0.21,2,True,Medium
+ST0343,Benjamin Group,EdTech,2022,Delhi,43,146372,4657667.24,3817061.19,17709219.41,Series A,B2C,False,4.7,0.11,96,True,High
+ST0344,Mayer-Walters,ClimateTech,2024,Bangalore,110,61085,1021805.13,536043.12,30948915.11,Seed,Subscription,False,2.9,0.05,11,True,Low
+ST0345,Wells-Torres,Robotics,2019,Kolkata,322,83684,2466778.48,3653224.25,44855138.67,Series A,B2C,True,4.7,0.2,98,False,Medium
+ST0346,"Hansen, Garcia and Knight",ClimateTech,2016,Ahmedabad,274,111933,2396817.18,2164321.91,25148636.85,Series C,Marketplace,True,3.5,0.28,23,True,Medium
+ST0347,Holmes-Price,Cybersecurity,2018,Mumbai,11,177712,1061654.4,1014209.79,16305538.19,Series C,Marketplace,False,4.0,0.11,71,True,Medium
+ST0348,"Owens, Fuentes and Miller",HealthTech,2024,Pune,99,131749,2125474.97,1583098.02,37622178.38,Series A,B2B,False,3.4,0.17,58,True,Medium
+ST0349,"Evans, Carr and Macias",AI,2017,Kolkata,416,62814,2781146.84,3652205.81,9843357.55,Series C,B2C,False,4.5,0.3,61,False,Medium
+ST0350,Griffith Group,EdTech,2019,Noida,407,128564,1507170.57,1402844.2,28413334.23,Seed,Subscription,False,3.5,0.28,8,True,Medium
+ST0351,Johnson-Anderson,SaaS,2018,Jaipur,138,95624,1807929.83,1671863.11,40510293.28,Series A,Marketplace,False,3.4,0.17,45,True,Medium
+ST0352,Miller-Brooks,HealthTech,2017,Chennai,171,177473,2557118.18,3086870.41,22374159.35,Series C,Subscription,True,2.7,0.25,60,False,Medium
+ST0353,Orozco and Sons,Cybersecurity,2022,Chennai,45,43467,1724691.18,1047795.91,32668004.22,Series C,Subscription,True,4.3,0.25,51,True,Medium
+ST0354,Powell-Smith,HealthTech,2021,Hyderabad,99,7055,633949.15,320154.05,12619768.15,Seed,B2B,False,4.4,0.3,27,True,Low
+ST0355,"Wilson, Jenkins and Aguirre",FinTech,2025,Kolkata,285,15110,141560.92,101374.08,38261568.79,Series B,B2C,True,2.7,0.11,20,True,Low
+ST0356,"Hall, Howard and Briggs",E-commerce,2022,Noida,382,75494,2221370.53,809323.52,26360779.78,Series B,Subscription,True,2.9,0.02,46,True,Medium
+ST0357,Parker-Peck,Robotics,2025,Ahmedabad,490,183877,2701044.97,2614828.17,22854343.85,Series B,Marketplace,False,4.4,0.35,56,True,Medium
+ST0358,Rios-Miller,Robotics,2017,Chennai,281,60540,4025491.75,3117414.87,18320876.93,Series B,Subscription,True,3.1,0.13,1,True,Medium
+ST0359,Holt-Lucas,AI,2023,Chennai,357,129956,4735317.98,3883847.16,506173.35,Series A,Subscription,False,3.6,0.12,30,True,High
+ST0360,"Randall, Baker and Vargas",EdTech,2023,Jaipur,207,66508,824714.78,955228.54,19516677.33,Series B,Marketplace,False,3.4,0.11,55,False,Low
+ST0361,Taylor LLC,SaaS,2022,Delhi,216,50283,4268875.3,1866050.61,14515285.2,Series B,B2B,True,4.1,0.25,35,True,Medium
+ST0362,"Zavala, Smith and Davis",EdTech,2016,Pune,30,141239,120433.12,176317.99,14141621.15,Seed,Subscription,True,2.8,0.18,2,False,Low
+ST0363,"Kennedy, Steele and Ferguson",FinTech,2017,Bangalore,180,111164,1564767.66,1939218.22,49898274.14,Series B,Subscription,True,3.7,0.32,43,False,Low
+ST0364,Price-Martinez,EdTech,2021,Noida,283,124246,916202.66,1250074.85,12541469.35,Series A,B2B,True,3.5,0.01,99,False,Medium
+ST0365,Medina-Jones,E-commerce,2017,Bangalore,240,193760,3857269.88,3384680.48,49106686.78,Seed,Marketplace,False,3.7,0.28,40,True,High
+ST0366,Mcmahon LLC,Gaming,2020,Bangalore,331,79332,1001630.92,1355983.35,43189700.4,Series A,Marketplace,True,3.0,0.05,82,False,Medium
+ST0367,"Smith, Baxter and Taylor",FinTech,2018,Pune,207,64724,54559.98,13890.5,39184588.25,Series C,B2B,False,3.7,0.24,48,True,Low
+ST0368,Escobar-Andrade,EdTech,2020,Ahmedabad,481,164874,309661.16,205049.25,7738225.85,Series B,Subscription,True,3.8,0.05,63,True,Medium
+ST0369,Sullivan Inc,Cybersecurity,2023,Noida,15,181682,1895066.99,2163633.81,12572277.24,Series A,B2C,False,2.6,0.29,72,False,Medium
+ST0370,Collier PLC,HealthTech,2022,Mumbai,170,192994,2347289.66,3117107.7,29954063.21,Series B,Marketplace,False,4.7,0.07,68,False,High
+ST0371,"Diaz, Adams and Schmidt",EdTech,2020,Hyderabad,5,168254,2534729.09,2924456.52,44152472.01,Series C,B2C,False,4.0,0.15,80,False,Medium
+ST0372,Harper Ltd,FinTech,2015,Pune,397,145563,779116.25,442590.86,20519736.16,Series A,B2B,True,3.3,0.05,85,True,Medium
+ST0373,Harris-Baker,SaaS,2019,Bangalore,59,128236,966167.03,233196.29,32105495.82,Series B,B2C,True,3.5,0.2,80,True,Low
+ST0374,Brown PLC,Robotics,2021,Chennai,11,55719,3282189.32,4617793.67,41612280.99,Seed,Marketplace,True,3.7,0.26,47,False,Medium
+ST0375,Smith-Shaw,Robotics,2021,Delhi,380,19451,4173937.93,1257674.23,10834208.16,Series A,B2C,True,3.8,0.05,30,True,High
+ST0376,Solomon-Moore,Gaming,2016,Pune,290,197396,2795126.62,3270132.92,38325856.83,Series A,Subscription,False,3.9,0.27,90,False,Medium
+ST0377,Ruiz Group,E-commerce,2021,Kolkata,341,42465,2674163.38,2620387.16,46679322.48,Series B,B2C,True,4.8,0.22,42,True,Medium
+ST0378,"Jenkins, Warner and Rocha",AI,2019,Jaipur,197,145241,4631473.14,2456143.69,48084506.19,Seed,B2C,False,3.6,0.16,93,True,High
+ST0379,"Green, Hunter and Moore",Robotics,2023,Ahmedabad,8,79730,4922128.18,2359026.68,15779488.52,Series A,B2B,True,4.4,0.38,36,True,High
+ST0380,Cole-Nguyen,FinTech,2024,Kolkata,240,94233,788974.46,429584.47,44486786.36,Series A,B2B,False,3.1,0.11,39,True,Low
+ST0381,Payne-Johnson,Cybersecurity,2015,Jaipur,410,127493,872783.43,1111417.1,34495275.3,Series C,B2B,True,3.9,0.36,77,False,Low
+ST0382,"Chapman, Simpson and Park",SaaS,2015,Kolkata,476,88658,1746171.73,2204165.0,20855259.55,Seed,Marketplace,True,4.7,0.35,30,False,Medium
+ST0383,"Nelson, French and Ortega",ClimateTech,2024,Jaipur,168,142539,2828915.34,1767735.77,34903544.2,Seed,B2C,False,2.9,0.27,51,True,Medium
+ST0384,"Torres, Howard and Nelson",FinTech,2021,Ahmedabad,153,104369,748581.88,476860.6,23818939.99,Series C,B2C,True,4.4,0.22,34,True,Low
+ST0385,Davis-Jackson,EdTech,2018,Hyderabad,251,147616,998561.55,712887.51,28587967.61,Series B,Subscription,False,3.9,0.4,68,True,Low
+ST0386,"Beltran, Thornton and Rivera",AI,2019,Pune,355,151999,457077.29,490568.17,21205853.09,Series B,Subscription,True,3.4,0.14,77,False,Low
+ST0387,Brown LLC,FinTech,2015,Delhi,230,12764,4621823.9,2327256.92,34283693.41,Series A,Marketplace,True,2.9,0.29,11,True,Medium
+ST0388,Glover-Bell,EdTech,2023,Ahmedabad,180,182874,4023361.06,2400552.32,23585955.67,Series B,Subscription,True,3.3,0.3,28,True,High
+ST0389,"Davis, Jenkins and Roth",Cybersecurity,2018,Jaipur,360,184174,3344620.3,2306412.27,45306712.29,Series B,B2B,False,3.8,0.11,8,True,High
+ST0390,Adkins-Shaw,AI,2019,Kolkata,340,3184,342322.98,362343.63,33165932.7,Series A,Subscription,True,4.8,0.15,14,False,Low
+ST0391,Johnson Inc,AI,2015,Delhi,467,83694,2428464.14,2370759.78,4446632.41,Series B,Marketplace,False,3.0,0.39,72,True,Low
+ST0392,"Goodwin, Shaw and Caldwell",Cybersecurity,2015,Mumbai,206,196137,793456.2,516392.3,17628058.46,Series C,B2B,False,4.1,0.1,65,True,Medium
+ST0393,"Castaneda, Gomez and Kelly",SaaS,2025,Delhi,120,40769,1715512.9,1219216.01,6906170.77,Series C,B2C,True,4.3,0.21,87,True,Medium
+ST0394,"Franklin, Santiago and Weber",EdTech,2017,Mumbai,223,82889,4549579.61,2857455.19,27134575.87,Series A,Subscription,True,3.0,0.06,70,True,High
+ST0395,Johnson-Hensley,HealthTech,2015,Chennai,340,149070,4586389.48,2810287.56,27889147.89,Series C,Subscription,False,4.9,0.06,41,True,High
+ST0396,Fisher LLC,HealthTech,2017,Bangalore,231,196457,4669504.94,6361589.34,46665839.02,Series B,B2C,True,3.2,0.31,14,False,High
+ST0397,Scott LLC,E-commerce,2017,Kolkata,123,181191,140161.62,42513.55,39002321.18,Series C,Subscription,True,2.8,0.34,61,True,Low
+ST0398,Cobb and Sons,EdTech,2018,Hyderabad,88,51661,1139102.57,832872.97,48442313.29,Series A,Subscription,False,4.8,0.38,29,True,Low
+ST0399,"Rose, Morse and Jenkins",E-commerce,2021,Jaipur,357,86169,4335206.78,5869276.02,21406406.38,Seed,B2B,False,4.4,0.25,49,False,High
+ST0400,"Morris, Davila and Holmes",Robotics,2025,Bangalore,238,12119,4390121.89,2280396.77,26916563.72,Series A,Marketplace,False,5.0,0.03,50,True,High
+ST0401,Bray-Vargas,Robotics,2017,Noida,208,80837,3870648.29,2212806.91,8366005.75,Series C,B2B,True,3.2,0.37,89,True,Medium
+ST0402,Ritter-Romero,ClimateTech,2024,Delhi,97,154471,4689833.86,5182024.35,6808568.38,Series C,B2B,False,3.5,0.19,23,False,High
+ST0403,"Cervantes, Landry and Williamson",ClimateTech,2025,Chennai,170,182329,3246396.39,3651905.94,8241501.65,Seed,Subscription,True,4.3,0.05,91,False,High
+ST0404,Lee-Goodwin,HealthTech,2017,Pune,198,145269,1909228.98,2288666.13,45617026.3,Seed,Subscription,False,3.9,0.27,20,False,Medium
+ST0405,"Trevino, Willis and Diaz",AI,2024,Mumbai,163,192407,3845465.81,2999985.18,31341319.84,Seed,Subscription,False,2.8,0.06,26,True,High
+ST0406,Holland Ltd,ClimateTech,2021,Noida,442,131716,2722070.79,564763.58,44141010.88,Seed,B2B,True,3.1,0.24,61,True,Medium
+ST0407,"Garcia, Cook and Fleming",E-commerce,2015,Pune,456,144482,1397783.56,1421861.85,41015063.5,Seed,Marketplace,False,3.0,0.08,8,False,Medium
+ST0408,Ward Ltd,SaaS,2024,Ahmedabad,476,23990,254666.5,188973.75,8953507.17,Series A,Subscription,False,4.2,0.25,89,True,Low
+ST0409,Olson-Rivera,Robotics,2016,Mumbai,481,10395,474700.18,279637.72,18460042.8,Series C,B2C,True,3.4,0.04,55,True,Low
+ST0410,Gay Inc,Robotics,2016,Noida,360,72937,1652750.55,1219540.31,10531776.2,Series B,Subscription,False,3.0,0.03,74,True,Medium
+ST0411,Carroll Ltd,ClimateTech,2022,Pune,137,138728,2879962.02,2909387.72,46358913.14,Series A,Marketplace,True,4.0,0.2,94,False,Medium
+ST0412,Nichols LLC,Gaming,2015,Chennai,5,31987,129694.12,131392.98,5940389.91,Series B,B2C,True,4.6,0.32,54,False,Low
+ST0413,Ramirez-Sanders,AI,2016,Chennai,332,53740,3453185.14,1832753.08,3438411.37,Series B,Subscription,True,3.3,0.22,99,True,Medium
+ST0414,"Anderson, Adams and Perry",HealthTech,2022,Pune,431,47040,978137.74,1255902.34,46117874.27,Series C,Marketplace,False,3.7,0.2,5,False,Low
+ST0415,Rodriguez-Rubio,Robotics,2015,Delhi,406,109515,4639671.98,1265836.93,26077607.56,Series B,Marketplace,True,3.9,0.27,72,True,High
+ST0416,Petersen PLC,Gaming,2017,Jaipur,81,74520,4205288.38,2695161.51,18793276.84,Seed,Marketplace,False,3.8,0.07,78,True,High
+ST0417,Franklin Inc,EdTech,2023,Mumbai,368,9291,1364772.11,426951.38,43858584.19,Series A,B2B,False,3.4,0.33,39,True,Low
+ST0418,Dixon-Adams,HealthTech,2018,Chennai,406,10802,3891174.05,5398459.23,22216515.94,Series C,Marketplace,False,2.6,0.2,65,False,Medium
+ST0419,Duncan-Rodriguez,Gaming,2023,Hyderabad,78,26756,4112471.2,5837369.11,33852028.57,Seed,Marketplace,True,2.8,0.29,59,False,Medium
+ST0420,"Lawson, Knight and Hoffman",Cybersecurity,2015,Jaipur,356,156788,4360656.71,2761502.2,44464834.51,Series B,B2C,False,2.8,0.31,96,True,Medium
+ST0421,Roberts and Sons,Cybersecurity,2016,Bangalore,107,51474,1439971.21,1284394.63,38650715.52,Seed,B2C,False,4.2,0.12,21,True,Medium
+ST0422,"Gordon, Jones and Johnson",SaaS,2020,Ahmedabad,286,84488,1362549.98,1943352.12,40209941.78,Series C,B2B,True,3.9,0.08,40,False,Medium
+ST0423,"Gallagher, Norris and Delacruz",SaaS,2024,Noida,19,124400,4517429.11,1199796.71,19210801.99,Series B,Marketplace,False,2.7,0.16,91,True,High
+ST0424,Montoya-Johnson,SaaS,2017,Hyderabad,423,52943,3567364.44,3824683.24,26697572.2,Series C,B2B,False,4.9,0.3,60,False,Medium
+ST0425,Barnes PLC,Cybersecurity,2020,Kolkata,163,180431,3225648.86,3859300.3,23553766.44,Series A,Marketplace,False,4.9,0.07,79,False,High
+ST0426,Bryant PLC,E-commerce,2024,Jaipur,237,128796,161018.02,131702.22,17604468.99,Series A,B2B,False,3.7,0.08,99,True,Low
+ST0427,Bowman Group,SaaS,2021,Delhi,423,188242,3985821.29,2485680.31,32490098.07,Series A,B2C,False,4.5,0.22,52,True,High
+ST0428,Johnson PLC,Robotics,2018,Pune,201,18317,1710163.65,2151540.5,29568961.44,Seed,Subscription,True,4.5,0.18,44,False,Medium
+ST0429,Wilson Ltd,SaaS,2016,Jaipur,308,157257,2319913.09,2138064.41,41110051.46,Series C,Marketplace,False,2.9,0.38,9,True,Medium
+ST0430,Whitney PLC,HealthTech,2025,Pune,335,174058,316796.29,152979.44,6988891.04,Series C,Marketplace,False,4.0,0.3,1,True,Low
+ST0431,Fowler-Jones,Cybersecurity,2021,Chennai,320,152501,2241327.25,1047507.12,43877396.36,Seed,B2B,False,3.2,0.32,87,True,Medium
+ST0432,Curtis LLC,E-commerce,2016,Mumbai,438,34437,4264000.85,1198754.45,45058730.97,Seed,B2C,False,4.9,0.01,72,True,High
+ST0433,Hill LLC,HealthTech,2022,Pune,364,155707,1977398.94,1213263.77,19170341.26,Series A,Subscription,False,3.5,0.22,85,True,Medium
+ST0434,"Burgess, Merritt and Elliott",HealthTech,2022,Kolkata,435,110375,779793.78,1167111.78,33519800.79,Series A,B2B,True,2.8,0.04,3,False,Medium
+ST0435,Howard-Jones,Robotics,2021,Ahmedabad,333,110014,4302162.28,5858070.29,34784756.45,Series C,Subscription,False,4.8,0.25,59,False,High
+ST0436,Robinson and Sons,Gaming,2023,Jaipur,120,49704,2129611.57,446492.21,24932940.33,Series B,B2B,True,4.3,0.29,35,True,Medium
+ST0437,Riley Ltd,Robotics,2019,Noida,295,127685,3527363.89,1224396.26,24102568.79,Seed,B2B,True,4.2,0.07,94,True,High
+ST0438,Sanders-Young,SaaS,2015,Chennai,246,166324,3711013.69,5375530.84,3950191.82,Seed,Subscription,False,4.1,0.32,40,False,Medium
+ST0439,Jackson-Wright,AI,2024,Mumbai,267,124006,2874086.86,1813457.37,17678081.36,Series B,B2B,False,4.9,0.12,22,True,Medium
+ST0440,Smith-Carter,FinTech,2017,Ahmedabad,301,45323,2868571.38,3021224.85,14623072.77,Seed,Marketplace,False,4.3,0.02,63,False,Medium
+ST0441,Morrison-Hill,HealthTech,2025,Noida,72,162427,1412049.94,1857150.53,759440.35,Series B,B2C,False,2.8,0.08,76,False,Medium
+ST0442,"Taylor, Clark and Foley",SaaS,2017,Noida,405,184703,1188617.45,517110.34,26393073.3,Series C,Subscription,True,2.6,0.39,19,True,Low
+ST0443,Wilson-Krueger,FinTech,2015,Pune,343,116391,3632735.47,1516551.68,28908981.82,Series C,Subscription,False,4.6,0.03,34,True,High
+ST0444,"Park, Williams and Beck",Cybersecurity,2017,Ahmedabad,159,125850,3733291.22,4398400.23,26649415.58,Series C,B2B,False,3.4,0.29,61,False,Medium
+ST0445,Manning and Sons,E-commerce,2021,Jaipur,479,118655,1916200.43,1169639.57,26536158.47,Series B,Marketplace,False,4.9,0.05,69,True,Medium
+ST0446,"Avila, Nguyen and Wolf",SaaS,2018,Ahmedabad,141,26762,1284166.16,1232067.39,23082374.24,Series B,B2C,False,4.2,0.1,87,True,Medium
+ST0447,"Gallegos, Gonzalez and Rivera",E-commerce,2018,Mumbai,285,3772,3367281.28,4314148.48,647472.48,Series B,B2C,True,2.7,0.05,58,False,Medium
+ST0448,Murphy LLC,FinTech,2016,Hyderabad,17,163371,468787.0,665704.31,32847445.65,Series A,Subscription,True,4.6,0.38,82,False,Low
+ST0449,Jimenez-Wyatt,Gaming,2025,Chennai,463,30057,3481311.63,1842785.18,23374431.09,Series B,B2C,True,4.8,0.26,36,True,Medium
+ST0450,"Carlson, Scott and Kelley",FinTech,2022,Delhi,146,17354,1920167.02,1214411.86,3049929.46,Series C,B2C,False,4.9,0.11,57,True,Medium
+ST0451,Green-Christensen,FinTech,2015,Hyderabad,60,38715,2707754.46,2059598.33,30717616.23,Seed,Marketplace,False,2.8,0.18,34,True,Medium
+ST0452,Smith Inc,E-commerce,2021,Jaipur,14,131469,752782.83,777199.98,46648041.49,Seed,Subscription,False,4.2,0.11,90,False,Medium
+ST0453,Wolfe-Campbell,ClimateTech,2016,Jaipur,228,106883,4221805.28,5130414.39,39279816.17,Series B,Marketplace,False,3.9,0.01,89,False,High
+ST0454,Blackburn-Young,ClimateTech,2019,Delhi,210,15468,3165039.91,4578138.61,4578815.39,Series A,B2B,False,3.8,0.38,11,False,Medium
+ST0455,Roberts and Sons,ClimateTech,2018,Pune,343,51070,1501363.02,1061668.05,5383062.44,Seed,B2C,True,4.2,0.2,81,True,Medium
+ST0456,Wyatt LLC,AI,2015,Chennai,373,156437,1200040.81,846506.14,39647321.63,Seed,Marketplace,True,4.1,0.2,58,True,Medium
+ST0457,Kelly-Burnett,HealthTech,2024,Delhi,212,31982,1066274.1,1119593.05,26179825.98,Seed,B2B,True,4.9,0.35,69,False,Low
+ST0458,"Castillo, Montgomery and Martin",HealthTech,2025,Bangalore,255,172398,105124.4,145001.51,30937685.55,Series B,B2B,False,3.1,0.26,2,False,Low
+ST0459,Robinson PLC,EdTech,2016,Delhi,317,45745,4178407.26,1183094.71,40882646.22,Series C,Marketplace,False,2.8,0.24,79,True,Medium
+ST0460,"Spencer, Zimmerman and Smith",AI,2024,Pune,171,32667,4879507.81,4629467.75,6909603.63,Series B,B2B,True,4.6,0.32,98,True,Medium
+ST0461,Wilson-Miller,AI,2017,Hyderabad,145,38024,3790174.93,1586059.76,18527870.8,Series C,B2C,True,2.9,0.11,75,True,Medium
+ST0462,Mathis-Cruz,Gaming,2022,Pune,455,128655,412805.81,86437.9,46310540.97,Series A,B2C,False,4.3,0.24,37,True,Low
+ST0463,Kirby Group,SaaS,2016,Mumbai,272,119074,2066036.31,2932772.62,30546372.53,Series B,Subscription,True,2.6,0.08,64,False,Medium
+ST0464,"Price, Chung and Olson",Robotics,2018,Noida,290,62771,967595.28,1434541.84,48840734.4,Series A,Marketplace,True,4.0,0.35,70,False,Low
+ST0465,Mcclure PLC,AI,2015,Chennai,104,30538,3985098.73,4347012.97,48430263.2,Series B,B2C,False,3.7,0.08,86,False,Medium
+ST0466,Jones-Charles,HealthTech,2017,Bangalore,133,88633,3087928.56,4190638.57,22684724.01,Series C,B2B,True,2.8,0.03,69,False,Medium
+ST0467,"Taylor, Waters and Anderson",EdTech,2016,Chennai,463,62682,3609801.37,3503379.59,16332317.1,Series A,B2B,True,3.0,0.27,42,True,Medium
+ST0468,Carlson Inc,HealthTech,2018,Jaipur,382,109159,4350732.65,2994139.86,11072104.78,Series C,B2C,False,3.7,0.2,56,True,High
+ST0469,York-Gordon,SaaS,2015,Mumbai,196,36757,2294123.56,1037864.71,17961579.76,Series A,B2B,False,3.2,0.14,5,True,Medium
+ST0470,Scott-Terry,SaaS,2017,Jaipur,239,110634,864294.57,558895.06,44326128.15,Series A,B2B,False,4.0,0.32,82,True,Low
+ST0471,Matthews-Garcia,Gaming,2018,Delhi,443,137778,2451174.86,3662946.58,29599464.52,Series B,Subscription,True,4.6,0.12,94,False,Medium
+ST0472,"Coleman, Weber and Rodriguez",Robotics,2015,Kolkata,461,156129,4731799.25,6567174.92,44917677.13,Series C,Subscription,True,3.5,0.03,61,False,High
+ST0473,Marshall-Phillips,E-commerce,2019,Delhi,236,130836,1210152.35,1120641.08,670528.43,Seed,B2B,False,4.3,0.38,17,True,Low
+ST0474,"Davis, Kim and Cruz",HealthTech,2021,Pune,347,80911,817396.14,651520.05,28540520.84,Series B,Subscription,True,4.0,0.39,60,True,Low
+ST0475,Wright PLC,SaaS,2023,Jaipur,445,165444,362785.97,493920.32,16678661.61,Series A,B2B,False,2.6,0.18,35,False,Low
+ST0476,"Davenport, Mueller and Patrick",SaaS,2015,Chennai,381,15368,2578535.04,3566127.75,18231326.58,Series B,B2C,True,2.6,0.16,60,False,Medium
+ST0477,Baker LLC,SaaS,2018,Delhi,292,186948,3870141.79,1470373.49,16779737.35,Series B,Marketplace,False,3.8,0.26,95,True,High
+ST0478,"Daniels, Klein and Norton",ClimateTech,2023,Ahmedabad,262,179317,2120416.33,574204.49,18672048.25,Series B,Subscription,False,3.6,0.21,16,True,Medium
+ST0479,"Foster, Tran and Burns",FinTech,2016,Kolkata,414,177503,4727372.96,5915998.28,47046750.56,Series A,Marketplace,True,2.7,0.36,59,False,High
+ST0480,Bryant Inc,AI,2019,Kolkata,60,44192,1386954.25,1534258.15,24841620.31,Series A,Subscription,False,4.7,0.21,81,False,Medium
+ST0481,"Reynolds, Price and Campos",E-commerce,2021,Jaipur,220,117355,3691169.13,841317.06,9493579.9,Series B,Marketplace,False,2.6,0.32,67,True,Medium
+ST0482,Dixon-Reynolds,HealthTech,2019,Delhi,308,175549,3487349.27,4514304.69,22290552.37,Series C,Marketplace,False,3.3,0.06,40,False,High
+ST0483,"Roth, Mckee and Crawford",Cybersecurity,2017,Pune,399,13404,750208.29,427391.15,47812882.08,Series A,B2C,True,4.0,0.07,69,True,Low
+ST0484,Jordan and Sons,AI,2025,Chennai,64,11787,4968927.46,4704991.56,22072387.46,Series B,B2C,False,3.4,0.09,91,True,High
+ST0485,"Howard, Orozco and Arnold",HealthTech,2022,Chennai,234,142522,4877573.74,4359262.49,6118426.67,Series A,B2B,False,2.6,0.37,99,True,Medium
+ST0486,Howard-Patterson,HealthTech,2024,Noida,336,185929,1484828.78,2026450.8,48481797.58,Series B,B2B,False,4.4,0.4,86,False,Medium
+ST0487,Gill-Duncan,E-commerce,2016,Chennai,465,11506,705722.23,646616.57,15438705.93,Seed,B2C,True,3.5,0.34,58,True,Low
+ST0488,"Smith, Shepard and Kim",Gaming,2018,Noida,405,73856,986621.21,304536.83,42480096.87,Series B,B2B,False,4.2,0.38,66,True,Low
+ST0489,Sanchez PLC,ClimateTech,2023,Hyderabad,208,39783,3582659.22,2708248.98,19336325.28,Series A,Subscription,False,2.5,0.14,40,True,Medium
+ST0490,Mcdonald-Marshall,SaaS,2024,Hyderabad,416,116999,1450283.75,1809047.14,48519515.63,Series A,B2C,False,3.6,0.36,18,False,Low
+ST0491,Williams-Johnson,Cybersecurity,2021,Pune,248,138704,4933325.35,1410686.93,48006760.15,Series C,B2C,True,4.4,0.04,53,True,High
+ST0492,"Farley, Ball and Yang",Robotics,2022,Delhi,100,101078,1454421.2,1218457.8,41148821.01,Seed,B2B,True,3.3,0.24,64,True,Low
+ST0493,Johnson LLC,HealthTech,2022,Delhi,139,79687,4780572.71,6140722.1,23653431.4,Seed,B2B,False,4.1,0.36,54,False,Medium
+ST0494,Fowler-Sims,ClimateTech,2016,Chennai,257,18491,2998467.7,2009835.01,24050270.98,Seed,Marketplace,True,3.6,0.11,88,True,Medium
+ST0495,Hays-Wilson,Gaming,2025,Chennai,302,16338,739224.23,590904.18,34679488.09,Seed,Marketplace,False,3.4,0.03,47,True,Low
+ST0496,Taylor Inc,HealthTech,2023,Chennai,276,168495,4682221.93,4064292.44,38333799.76,Series B,Marketplace,False,3.0,0.05,97,True,High
+ST0497,"Hancock, Matthews and Mitchell",Cybersecurity,2020,Noida,355,183967,3444849.74,1118141.15,29023329.74,Series C,Marketplace,True,4.6,0.02,67,True,High
+ST0498,Hall Group,Robotics,2023,Hyderabad,57,58114,781229.02,380808.17,9461418.41,Series C,Subscription,True,4.7,0.25,68,True,Low
+ST0499,"Moyer, Castro and James",Robotics,2020,Pune,64,35401,4617814.67,3802187.15,15613094.62,Series B,B2B,True,3.4,0.33,77,True,Medium
+ST0500,"Cooper, Williams and Huff",Gaming,2016,Hyderabad,118,34741,4285507.89,1650208.26,11367392.81,Seed,Subscription,False,2.8,0.06,11,True,Medium
+ST0501,Nash-Garner,AI,2016,Mumbai,26,52472,548008.74,674583.27,25698285.67,Seed,B2B,True,2.6,0.06,33,False,Low
+ST0502,Bond-Beltran,Cybersecurity,2024,Chennai,476,158756,1034951.92,1419464.84,9279852.14,Series B,B2C,True,3.4,0.05,96,False,Medium
+ST0503,"Anderson, Levy and Fowler",HealthTech,2023,Bangalore,263,150483,351001.82,444179.63,38174039.45,Seed,B2C,False,3.8,0.29,37,False,Low
+ST0504,Powell-Walker,Gaming,2018,Ahmedabad,192,184011,2951009.05,2276897.0,47889499.41,Series A,Subscription,True,3.0,0.15,49,True,Medium
+ST0505,Pierce PLC,AI,2016,Chennai,394,83386,626840.86,215264.05,6838822.88,Series C,B2B,False,4.4,0.28,72,True,Low
+ST0506,"Lopez, Bennett and Figueroa",Gaming,2018,Hyderabad,150,120785,3005943.65,1820426.48,48810143.41,Series C,Marketplace,True,3.6,0.23,38,True,Medium
+ST0507,Wells-Henry,Gaming,2021,Jaipur,11,177726,2463325.38,829459.42,21931014.6,Seed,B2C,True,4.1,0.04,19,True,High
+ST0508,Ochoa and Sons,ClimateTech,2019,Jaipur,191,53189,1699771.92,1654641.41,49533532.87,Series B,Subscription,False,2.8,0.34,93,True,Low
+ST0509,Johnson-Rowe,FinTech,2019,Noida,248,175765,3019795.51,2191697.16,24252416.32,Series C,B2C,True,3.2,0.31,14,True,Medium
+ST0510,"Lopez, Ayers and Guerra",E-commerce,2017,Mumbai,20,27110,3691613.8,4723073.62,24931838.69,Seed,B2B,False,2.6,0.08,78,False,Medium
+ST0511,Yang-King,Robotics,2015,Bangalore,410,123164,1017639.45,1079431.74,24538005.49,Series C,B2B,False,3.2,0.14,70,False,Medium
+ST0512,Boyd-Ford,Cybersecurity,2017,Noida,235,83459,4265842.7,3307405.92,1847256.89,Series C,B2C,False,2.9,0.27,100,True,Medium
+ST0513,Rodriguez-Solomon,ClimateTech,2022,Ahmedabad,371,102995,2442400.08,835780.98,33767477.78,Series A,B2B,False,4.2,0.28,74,True,Medium
+ST0514,Pierce Inc,AI,2024,Bangalore,139,130680,2959315.14,2045292.24,33840564.8,Series A,Marketplace,False,4.4,0.12,8,True,Medium
+ST0515,Waters Group,Gaming,2020,Bangalore,419,195525,2923995.22,3493449.8,31276392.36,Series A,B2C,True,3.5,0.18,46,False,Medium
+ST0516,Mullins PLC,Robotics,2020,Bangalore,336,82815,2966733.02,4104492.12,3321736.79,Series C,Subscription,False,3.3,0.14,3,False,Medium
+ST0517,"Carroll, Foster and Koch",FinTech,2022,Hyderabad,141,6348,3482832.8,3358795.21,49288950.84,Series A,Marketplace,False,3.4,0.16,74,True,Medium
+ST0518,Caldwell Ltd,Robotics,2018,Mumbai,262,175951,1704301.73,1703068.22,18198548.55,Series B,B2B,False,3.6,0.2,10,True,Medium
+ST0519,"Patton, Travis and Chavez",E-commerce,2019,Hyderabad,298,106389,4024969.07,4073043.21,47899156.12,Series C,Subscription,True,4.3,0.24,76,False,High
+ST0520,Nolan Inc,Gaming,2021,Mumbai,182,21096,3261168.7,1931919.99,40216129.26,Series C,B2C,True,3.6,0.22,26,True,Medium
+ST0521,Kelly Group,Cybersecurity,2025,Ahmedabad,326,185374,2585958.33,1144288.17,24985221.39,Series C,B2B,True,4.2,0.33,60,True,Medium
+ST0522,Jones PLC,FinTech,2025,Delhi,191,122238,747241.01,295619.34,34281066.5,Series C,Marketplace,False,3.3,0.18,41,True,Low
+ST0523,Clark and Sons,Cybersecurity,2022,Noida,335,43096,1289668.71,1265941.32,20323003.67,Series C,Subscription,True,2.8,0.08,32,True,Low
+ST0524,Carlson-Pruitt,AI,2022,Bangalore,108,42774,1370832.7,326099.75,39494008.51,Seed,B2B,False,3.2,0.22,83,True,Low
+ST0525,Boyd Group,Gaming,2017,Delhi,313,79113,4337187.18,5945187.84,20379992.24,Seed,B2B,False,3.4,0.27,12,False,Medium
+ST0526,Eaton-Walsh,EdTech,2021,Delhi,259,24658,1198003.51,430035.2,40344027.92,Series A,B2B,True,3.3,0.24,50,True,Low
+ST0527,Walker-Patrick,E-commerce,2023,Kolkata,114,72970,2202982.31,1168897.34,29494573.17,Series C,B2C,False,3.7,0.16,15,True,Medium
+ST0528,"Harris, Cox and Douglas",AI,2025,Bangalore,455,38987,1821360.08,2058815.53,41077200.04,Series A,Marketplace,False,2.6,0.39,78,False,Low
+ST0529,"Massey, Henson and Guerrero",Gaming,2015,Kolkata,163,168496,4792833.22,3219401.8,40621902.43,Series B,Marketplace,True,2.8,0.35,57,True,High
+ST0530,"Morton, Brown and Lewis",Gaming,2015,Mumbai,484,199355,1184947.67,561075.61,44517824.05,Seed,Subscription,False,4.8,0.26,99,True,Medium
+ST0531,"Clark, Anthony and Johnson",Cybersecurity,2023,Hyderabad,382,109255,4633221.13,2930692.5,21147181.69,Series B,Subscription,False,4.8,0.05,21,True,High
+ST0532,"Gallagher, Alexander and Kent",AI,2021,Delhi,237,183245,146480.96,39217.12,32097545.95,Series B,Marketplace,True,4.1,0.32,18,True,Low
+ST0533,Miles-Bell,Gaming,2020,Noida,61,42372,1255521.79,1415767.96,38391987.62,Series C,B2C,False,4.1,0.06,77,False,Medium
+ST0534,Johnson-Hayden,Gaming,2024,Delhi,93,181215,2969171.87,1858269.77,14125776.56,Seed,B2B,True,2.7,0.15,51,True,Medium
+ST0535,Brooks Group,SaaS,2019,Pune,469,24324,4870896.58,2229633.74,35077994.65,Seed,Marketplace,True,2.9,0.17,55,True,Medium
+ST0536,Casey-Kramer,ClimateTech,2016,Delhi,489,149699,595579.09,675481.06,21786178.83,Series A,B2C,False,4.8,0.19,87,False,Medium
+ST0537,"Copeland, Bowen and Jennings",EdTech,2021,Pune,152,196675,2475899.11,914248.35,42824069.5,Series C,B2C,True,4.0,0.4,37,True,Medium
+ST0538,Rocha-Lester,AI,2022,Pune,153,69629,1185073.27,931787.2,12453482.09,Series B,Subscription,True,4.0,0.26,11,True,Low
+ST0539,Nelson-Smith,EdTech,2022,Chennai,370,101531,3545181.3,4101545.52,12848468.42,Seed,B2B,False,2.7,0.03,43,False,Medium
+ST0540,Smith-Novak,SaaS,2017,Mumbai,263,163439,1910879.0,2810484.59,33579537.96,Series A,Subscription,False,2.8,0.36,6,False,Medium
+ST0541,Smith-Lam,HealthTech,2022,Mumbai,454,123705,668278.47,409328.99,26544668.85,Series B,Subscription,False,2.9,0.06,6,True,Medium
+ST0542,Boyle-Yates,ClimateTech,2017,Ahmedabad,467,70000,3068528.54,3651650.51,13224709.13,Series C,B2B,True,3.3,0.36,41,False,Medium
+ST0543,Green and Sons,AI,2022,Chennai,81,15304,1157004.12,285341.42,13048186.98,Series C,Subscription,False,4.3,0.18,64,True,Low
+ST0544,"Edwards, West and Thomas",Robotics,2019,Jaipur,62,189681,4335727.71,1564115.96,4724215.02,Series A,B2B,True,4.7,0.08,22,True,High
+ST0545,Atkinson-Garcia,FinTech,2021,Chennai,218,21141,1238325.6,1049535.44,4760545.93,Seed,Marketplace,True,3.3,0.12,88,True,Low
+ST0546,Watkins-Lewis,AI,2020,Bangalore,19,22250,2306563.57,2583394.2,24018761.93,Series C,Marketplace,True,4.1,0.12,85,False,Medium
+ST0547,"Marsh, Griffin and Watkins",Gaming,2016,Kolkata,113,13761,4009774.23,2276911.05,39917441.2,Series B,B2C,True,4.4,0.22,78,True,Medium
+ST0548,Nielsen and Sons,HealthTech,2016,Mumbai,499,105573,455049.66,595227.52,8188887.16,Series C,Subscription,False,4.4,0.12,97,False,Medium
+ST0549,Smith Ltd,Gaming,2022,Mumbai,467,180558,3021532.9,2014629.83,4850769.3,Series C,B2B,False,3.4,0.09,58,True,High
+ST0550,Reynolds-Beck,EdTech,2025,Pune,420,97530,3073200.24,2348962.8,21329554.09,Series C,B2B,False,2.6,0.14,60,True,Medium
+ST0551,Foster and Sons,EdTech,2023,Kolkata,244,115650,405123.82,503167.07,15054643.07,Series B,B2B,True,5.0,0.28,39,False,Low
+ST0552,Henderson-Johnson,E-commerce,2019,Jaipur,474,12821,2571938.44,2221761.46,20680319.26,Seed,B2B,True,3.7,0.29,33,True,Medium
+ST0553,"Griffin, Mccullough and Brown",Cybersecurity,2020,Jaipur,384,174428,2319765.93,2834824.07,42153345.67,Series C,Subscription,False,2.6,0.17,91,False,Medium
+ST0554,Bennett Ltd,Robotics,2015,Bangalore,179,50071,1063231.17,320762.69,49110200.08,Series C,B2B,True,3.1,0.27,56,True,Low
+ST0555,Arnold-Walsh,Cybersecurity,2024,Jaipur,92,172914,2390828.17,2628352.4,43445587.02,Series B,Subscription,False,4.9,0.24,63,False,Medium
+ST0556,Davis LLC,EdTech,2022,Pune,49,33791,684218.6,306559.15,40807612.74,Series A,Subscription,True,4.2,0.08,4,True,Low
+ST0557,Green Ltd,ClimateTech,2022,Noida,49,79883,3850908.52,1511925.76,21122867.27,Seed,Subscription,True,2.8,0.36,95,True,Medium
+ST0558,"Hampton, Anderson and Carpenter",Gaming,2021,Noida,108,78288,2851458.0,3661243.82,2593562.9,Series B,B2B,False,2.5,0.26,92,False,Medium
+ST0559,Cooper-Fischer,AI,2023,Bangalore,209,128428,2571645.05,2936814.64,46767283.65,Series C,Marketplace,True,4.8,0.35,30,False,Medium
+ST0560,"Cruz, Murphy and Smith",Gaming,2015,Pune,142,170948,2091515.92,1705295.26,24764700.58,Series B,B2C,False,4.8,0.15,90,True,Medium
+ST0561,Ruiz Group,ClimateTech,2017,Mumbai,181,115848,1168194.53,567290.51,45458054.2,Series C,Subscription,False,3.3,0.24,92,True,Low
+ST0562,"Ward, Vang and Williams",ClimateTech,2017,Pune,412,124817,4000777.74,5192572.1,31111026.8,Series A,B2C,False,3.2,0.3,86,False,Medium
+ST0563,"Quinn, Hernandez and Potts",Cybersecurity,2020,Pune,56,110047,4715842.94,3969997.49,11774209.33,Series A,B2B,True,3.9,0.4,46,True,Medium
+ST0564,Jones-Lee,AI,2023,Mumbai,177,113884,578706.77,286284.7,28120973.36,Series A,B2B,True,3.7,0.4,46,True,Low
+ST0565,Clark-Swanson,FinTech,2023,Bangalore,479,115773,3996944.56,5801330.18,37800428.59,Seed,B2C,True,4.9,0.31,79,False,High
+ST0566,"Parker, Parrish and Aguirre",FinTech,2017,Chennai,450,54840,4555818.99,1841199.22,14641543.24,Series B,B2C,True,3.6,0.21,94,True,Medium
+ST0567,Sanchez and Sons,Cybersecurity,2023,Pune,439,53924,2201151.22,1629896.99,38463206.53,Seed,Marketplace,False,3.1,0.33,44,True,Low
+ST0568,Gibson-Williams,HealthTech,2021,Kolkata,371,198878,2080892.95,2118916.11,12310291.44,Series C,Subscription,False,4.4,0.22,30,False,Medium
+ST0569,Campbell PLC,E-commerce,2021,Pune,488,8802,2218467.66,2664817.63,35895405.5,Series C,B2B,False,3.8,0.04,44,False,Medium
+ST0570,Bowen-Wilson,Robotics,2019,Kolkata,393,10723,3304279.1,3416312.27,45130431.02,Series C,Marketplace,False,2.6,0.26,92,False,Medium
+ST0571,Smith LLC,EdTech,2023,Jaipur,470,91218,49432.15,27865.64,26413197.19,Series C,Marketplace,False,4.8,0.28,58,True,Low
+ST0572,Rice PLC,Robotics,2023,Mumbai,402,52719,4406063.67,1363963.98,26894802.96,Series A,B2B,False,3.5,0.29,17,True,Medium
+ST0573,"Steele, Oliver and Stewart",Cybersecurity,2021,Ahmedabad,271,90314,3787661.16,1545500.38,1443166.7,Seed,B2B,False,4.5,0.24,31,True,Medium
+ST0574,"Schultz, Rosales and Gilbert",AI,2022,Chennai,137,165361,2542421.89,917704.79,37840169.15,Series A,B2C,False,4.9,0.19,74,True,Medium
+ST0575,"Little, Rodriguez and Richardson",EdTech,2016,Chennai,158,75589,3337942.65,4204482.58,28659648.48,Series A,Marketplace,False,2.8,0.16,95,False,Medium
+ST0576,Hughes and Sons,EdTech,2022,Hyderabad,55,39418,3561085.7,4547395.75,4143260.81,Series B,Subscription,False,2.7,0.36,61,False,Medium
+ST0577,Grimes-Smith,Gaming,2017,Pune,451,70125,2925675.85,3005837.89,49825763.19,Series A,Subscription,False,4.2,0.38,94,False,Medium
+ST0578,Peterson-Hanson,Robotics,2020,Hyderabad,71,185686,2570795.57,2282566.81,34738811.72,Series C,B2B,True,3.6,0.02,21,True,High
+ST0579,Rivers LLC,ClimateTech,2015,Pune,194,150884,1455056.97,1279883.75,5931223.56,Series A,Subscription,True,3.3,0.16,38,True,Medium
+ST0580,"White, Boone and Cantu",FinTech,2015,Kolkata,484,80996,4446395.46,2135407.62,40965297.21,Series C,Marketplace,False,3.7,0.06,45,True,High
+ST0581,Hanson Ltd,ClimateTech,2022,Noida,465,89558,3908933.25,3196709.25,36015673.09,Series A,Marketplace,True,4.0,0.31,65,True,Medium
+ST0582,Lucas-Rangel,ClimateTech,2019,Hyderabad,414,164779,3325866.54,2436253.2,11679473.05,Series A,B2B,False,3.5,0.22,86,True,Medium
+ST0583,Hamilton Ltd,SaaS,2023,Delhi,292,170124,627670.24,581949.91,9661715.33,Series C,B2B,True,4.0,0.23,7,True,Medium
+ST0584,Chen and Sons,ClimateTech,2016,Ahmedabad,342,140423,906919.57,203753.68,39348514.45,Series B,Subscription,True,3.1,0.29,75,True,Low
+ST0585,Webster Group,FinTech,2016,Ahmedabad,256,7098,1706383.21,741697.22,1251644.16,Series A,Marketplace,True,3.8,0.16,12,True,Low
+ST0586,Hart LLC,HealthTech,2015,Bangalore,98,67992,3843840.41,1539441.1,47610628.14,Series B,Subscription,True,4.2,0.03,42,True,High
+ST0587,"Johnson, Guzman and Castillo",EdTech,2024,Jaipur,168,38345,2069985.83,1286461.27,18806882.26,Series A,Subscription,False,4.6,0.06,26,True,Medium
+ST0588,Wilson Ltd,EdTech,2015,Mumbai,491,31167,1353744.76,830979.14,27678398.22,Seed,B2C,True,2.7,0.02,82,True,Low
+ST0589,James-Manning,Robotics,2017,Delhi,160,149962,2039662.15,630420.54,31808159.77,Series C,Subscription,True,3.0,0.39,48,True,Medium
+ST0590,"Hart, Peck and Cannon",Cybersecurity,2024,Mumbai,5,122805,4805961.07,4839357.18,32670289.51,Series C,Marketplace,True,2.9,0.03,62,False,High
+ST0591,Henry-Moreno,FinTech,2017,Ahmedabad,304,134779,1413743.33,579410.26,26727759.85,Series B,Subscription,True,2.7,0.04,90,True,Medium
+ST0592,Proctor-Soto,ClimateTech,2019,Delhi,317,133335,4787511.7,2938551.34,34120944.75,Series B,Marketplace,True,3.4,0.11,97,True,High
+ST0593,"Mcclure, Jackson and Sanders",AI,2025,Pune,240,158158,1649001.65,2289183.19,6729600.95,Series C,Subscription,False,4.8,0.25,1,False,Medium
+ST0594,Hays-Wade,ClimateTech,2025,Hyderabad,280,22272,3938653.12,4111270.34,3922279.66,Series B,Subscription,False,2.6,0.33,86,False,Medium
+ST0595,Wright-Colon,ClimateTech,2015,Delhi,203,47448,4197337.51,5269466.04,49190585.29,Seed,Marketplace,False,2.8,0.15,25,False,Medium
+ST0596,"Malone, Evans and Gomez",AI,2019,Noida,103,24584,4083241.31,4135537.53,40430303.99,Series A,B2B,True,3.1,0.39,47,False,Medium
+ST0597,Rollins-Gardner,SaaS,2025,Jaipur,425,168362,1986470.04,2643775.3,28476656.46,Series A,B2B,True,3.7,0.23,85,False,Medium
+ST0598,"Sanders, Wade and Charles",EdTech,2025,Bangalore,386,18052,645880.24,913037.25,42781174.0,Series B,Subscription,True,4.7,0.29,36,False,Low
+ST0599,Brown and Sons,Cybersecurity,2016,Ahmedabad,485,112965,3208421.77,4575198.19,2640546.74,Series C,Subscription,False,4.8,0.18,53,False,Medium
+ST0600,Jenkins and Sons,AI,2021,Delhi,269,199972,226888.73,258105.53,2395884.14,Series B,B2B,True,4.8,0.22,41,False,Medium
+ST0601,Koch-Smith,FinTech,2025,Hyderabad,382,60147,4890697.1,3672748.87,3768296.33,Seed,Subscription,False,3.1,0.07,40,True,High
+ST0602,"Martin, Soto and King",E-commerce,2015,Chennai,418,7297,2966728.55,3008815.28,16748411.67,Series A,B2B,False,3.1,0.05,31,False,Medium
+ST0603,Smith LLC,FinTech,2017,Bangalore,396,26079,3130490.3,2982151.42,4322458.22,Series C,B2B,False,2.7,0.02,41,True,Medium
+ST0604,Rose Ltd,FinTech,2024,Kolkata,317,165150,2164876.56,719552.7,2836708.46,Series A,B2B,False,2.6,0.34,52,True,Medium
+ST0605,Smith LLC,ClimateTech,2023,Chennai,201,122689,3977871.74,5345939.87,30980566.19,Series A,B2B,True,3.3,0.38,4,False,Medium
+ST0606,"Kirby, Moore and Morrow",Cybersecurity,2020,Kolkata,11,157021,3569363.98,3464968.82,42046934.15,Series C,Subscription,True,4.8,0.06,66,True,High
+ST0607,Paul-Franklin,E-commerce,2019,Jaipur,129,37090,3987157.66,1110975.78,15617759.56,Series A,B2C,False,3.6,0.38,97,True,Medium
+ST0608,Mccoy-Hall,EdTech,2023,Ahmedabad,163,159159,1721072.57,1169432.66,453688.03,Seed,Subscription,False,4.0,0.27,8,True,Medium
+ST0609,Allen-Marks,ClimateTech,2024,Chennai,105,53526,3206368.41,1480186.65,3466768.59,Series B,Marketplace,False,3.0,0.2,89,True,Medium
+ST0610,May Group,EdTech,2018,Noida,173,43540,533191.0,713909.22,45531624.09,Series A,B2C,False,3.7,0.37,82,False,Low
+ST0611,Dorsey-Wiley,FinTech,2020,Bangalore,381,87904,4038283.82,2781106.88,20045612.7,Seed,B2C,False,4.6,0.01,2,True,High
+ST0612,Duncan Ltd,HealthTech,2018,Mumbai,230,51961,3160359.54,4381906.12,18027466.38,Series A,Marketplace,True,4.9,0.09,37,False,Medium
+ST0613,Jackson-Reese,FinTech,2020,Delhi,96,52376,117245.22,151920.01,45536915.06,Series B,Subscription,True,2.6,0.27,49,False,Low
+ST0614,"Woods, Stokes and Edwards",FinTech,2016,Pune,194,98609,3307934.49,4708878.76,48856237.21,Series A,B2C,True,5.0,0.35,92,False,Medium
+ST0615,Ortiz-Acevedo,SaaS,2024,Delhi,277,100141,3474825.94,2131239.64,21505531.22,Series B,B2C,False,4.1,0.37,98,True,Medium
+ST0616,Fleming-Anderson,EdTech,2016,Noida,131,14961,3151001.11,1777464.91,6366603.67,Seed,B2C,False,3.8,0.24,63,True,Medium
+ST0617,Ruiz Group,ClimateTech,2022,Noida,389,170101,3758169.98,2580156.26,25968673.69,Series B,Subscription,True,2.9,0.29,68,True,Medium
+ST0618,Joseph Ltd,SaaS,2017,Chennai,111,58547,4475474.28,3525349.4,11757510.36,Series B,B2B,True,3.0,0.18,49,True,Medium
+ST0619,Browning Ltd,Gaming,2022,Noida,389,23027,1482289.6,1296213.25,11547370.03,Series C,Subscription,False,2.6,0.21,44,True,Low
+ST0620,Porter Inc,FinTech,2019,Ahmedabad,416,131427,1591931.92,1109707.41,9019308.26,Seed,Marketplace,True,3.1,0.26,46,True,Medium
+ST0621,Alexander PLC,Cybersecurity,2018,Jaipur,55,32087,366029.9,91421.75,10055314.51,Series A,Marketplace,True,3.0,0.14,39,True,Low
+ST0622,"Blake, Fernandez and Terrell",AI,2022,Ahmedabad,399,79505,1416407.9,921546.24,49842274.64,Series A,Subscription,True,4.9,0.33,97,True,Medium
+ST0623,Roberts-Martin,ClimateTech,2020,Hyderabad,121,190618,3748194.01,3061411.4,25815476.26,Series B,B2C,False,4.5,0.31,93,True,High
+ST0624,"Knight, Moss and Bradley",Cybersecurity,2015,Noida,399,183961,2094262.44,1613179.03,42654559.04,Series B,Marketplace,True,2.6,0.06,17,True,Medium
+ST0625,Singh-Lopez,SaaS,2015,Pune,219,112599,3431956.4,2486038.29,38943238.06,Series A,Marketplace,False,3.8,0.14,3,True,Medium
+ST0626,Huang Group,Cybersecurity,2016,Pune,200,54531,4743976.45,1341701.01,19352370.37,Seed,B2C,True,3.7,0.14,58,True,High
+ST0627,"Hayes, Santiago and Lopez",EdTech,2019,Ahmedabad,428,181623,3020785.92,709552.58,9989986.81,Seed,Subscription,True,4.8,0.16,27,True,High
+ST0628,"Mason, Hayes and Stewart",Robotics,2021,Noida,193,136929,65124.97,40690.32,45495131.68,Seed,Subscription,True,3.5,0.4,17,True,Low
+ST0629,Kennedy LLC,SaaS,2018,Ahmedabad,71,54916,1555688.31,1965246.49,33256392.64,Series C,Marketplace,True,2.9,0.23,40,False,Low
+ST0630,"Butler, Sanders and Williams",ClimateTech,2022,Noida,8,38405,2234200.59,2841808.0,30262187.54,Seed,B2B,False,3.1,0.14,73,False,Medium
+ST0631,Silva Inc,Gaming,2018,Pune,335,120618,1740441.38,2254622.27,39627721.92,Series C,Subscription,False,3.5,0.33,23,False,Medium
+ST0632,Delacruz Ltd,Cybersecurity,2025,Ahmedabad,471,173773,925387.15,869123.47,19707888.31,Series B,B2B,True,4.9,0.1,21,True,Medium
+ST0633,Brown-Valdez,E-commerce,2021,Noida,470,130364,2062278.01,2454975.01,6105469.7,Series A,Marketplace,True,3.4,0.3,65,False,Medium
+ST0634,Hodge LLC,Gaming,2018,Kolkata,264,12700,2316215.76,683640.67,34739561.42,Seed,B2B,False,4.4,0.16,96,True,Medium
+ST0635,Lewis Ltd,EdTech,2022,Pune,63,186886,4586513.51,2867687.63,37446367.59,Series C,Marketplace,True,3.7,0.04,71,True,High
+ST0636,Garrett-Hanson,AI,2025,Mumbai,92,5735,3038872.9,1307953.95,6251361.57,Series A,Subscription,False,4.4,0.08,86,True,Medium
+ST0637,Thomas-Kelly,Robotics,2025,Hyderabad,96,57799,3574917.24,4863653.52,26638325.31,Series C,Marketplace,False,3.6,0.03,82,False,Medium
+ST0638,Ross-Powell,EdTech,2016,Bangalore,31,157815,33282.01,40075.95,38367356.21,Series C,B2B,True,4.8,0.16,31,False,Medium
+ST0639,Hughes Inc,HealthTech,2017,Bangalore,177,51371,3402998.03,960063.78,47939325.5,Series C,B2B,False,2.7,0.34,86,True,Medium
+ST0640,"Barnes, Flynn and Moore",EdTech,2016,Chennai,170,148339,3137664.31,3175552.73,46719652.03,Series B,B2C,True,3.5,0.18,30,False,Medium
+ST0641,Black and Sons,SaaS,2020,Bangalore,210,172440,1588038.7,1121064.26,22965857.79,Seed,B2C,False,2.7,0.33,84,True,Medium
+ST0642,"Wilson, Wilson and Haynes",HealthTech,2019,Hyderabad,159,157989,2502884.36,3723332.27,35640928.88,Series B,Subscription,True,4.5,0.37,73,False,Medium
+ST0643,"Wilkins, Ball and Morris",AI,2024,Jaipur,175,46961,3180413.72,4290877.88,15932450.41,Series C,Subscription,True,4.6,0.2,43,False,Medium
+ST0644,Baker PLC,Gaming,2018,Jaipur,262,155001,3526099.36,766148.0,1109608.31,Seed,B2B,True,4.4,0.06,31,True,High
+ST0645,"King, Reeves and Johnson",ClimateTech,2020,Pune,196,131738,1490107.5,591828.62,10259047.24,Series B,Marketplace,True,2.6,0.37,77,True,Low
+ST0646,"Russo, Miller and Koch",EdTech,2023,Bangalore,271,109761,3243751.66,1865130.07,1233481.95,Series A,B2C,False,4.6,0.14,32,True,Medium
+ST0647,Graham and Sons,HealthTech,2018,Pune,271,85315,925891.91,943222.08,3277613.17,Seed,B2C,True,3.7,0.38,7,False,Low
+ST0648,Elliott PLC,SaaS,2018,Mumbai,125,134018,400040.92,457041.09,15607575.34,Series B,Subscription,True,4.3,0.11,23,False,Medium
+ST0649,"Page, Garcia and Rodriguez",SaaS,2021,Pune,144,127136,409279.7,599317.17,19942311.43,Series C,B2B,False,2.9,0.18,65,False,Low
+ST0650,Williams-Thomas,Gaming,2022,Mumbai,223,22818,3796703.03,5307761.41,29779408.91,Series C,Marketplace,False,2.9,0.29,33,False,Medium
+ST0651,"Soto, Warren and Zimmerman",AI,2023,Chennai,292,159865,2409413.23,1525651.01,35757425.38,Series C,Subscription,False,3.0,0.37,1,True,Medium
+ST0652,Mckinney-Garcia,AI,2016,Kolkata,486,104455,4852758.26,3324568.23,24503078.16,Series A,B2C,False,4.1,0.24,53,True,High
+ST0653,Ayers-Paul,AI,2025,Kolkata,495,67914,3858639.19,4541813.68,17461505.46,Series C,B2C,True,4.3,0.26,48,False,Medium
+ST0654,"Jackson, Khan and Stewart",Cybersecurity,2024,Noida,249,10045,4608128.05,3086701.92,35342619.82,Series A,Marketplace,True,2.6,0.27,19,True,Medium
+ST0655,Simmons and Sons,Gaming,2024,Hyderabad,313,152608,4759373.44,6158489.64,666252.5,Series A,Subscription,True,4.4,0.26,50,False,High
+ST0656,"Johnson, Alvarado and Nguyen",Gaming,2016,Hyderabad,429,112901,1271827.46,754047.98,48385787.38,Series B,B2C,False,4.1,0.16,40,True,Medium
+ST0657,Clayton Inc,FinTech,2016,Kolkata,388,55925,4650784.16,3336292.5,15439612.12,Series C,Marketplace,False,5.0,0.33,1,True,High
+ST0658,"Sanchez, Long and Johnson",SaaS,2018,Pune,92,47242,1879510.43,2096145.35,9941125.42,Series A,B2B,True,3.0,0.38,58,False,Low
+ST0659,Ford and Sons,HealthTech,2016,Mumbai,419,51301,1304166.06,1790561.67,20469180.49,Seed,Subscription,True,4.1,0.25,82,False,Low
+ST0660,Simon and Sons,Cybersecurity,2015,Jaipur,146,17846,1717338.07,1650946.33,23920961.08,Seed,B2B,True,4.2,0.05,8,True,Medium
+ST0661,Smith-Scott,E-commerce,2024,Kolkata,272,2903,1884572.36,1651066.98,48104791.07,Series B,Marketplace,False,3.2,0.2,97,True,Low
+ST0662,Mack Inc,FinTech,2015,Noida,166,63808,4705545.32,5009531.88,18952863.13,Series C,B2C,True,2.6,0.15,43,False,Medium
+ST0663,Robinson Inc,ClimateTech,2023,Kolkata,313,33216,4346336.36,2448325.13,34978267.84,Series A,B2B,False,4.5,0.15,80,True,High
+ST0664,Miller-Curtis,ClimateTech,2021,Jaipur,13,167140,1807426.0,468991.93,40387512.7,Seed,Marketplace,False,3.3,0.18,78,True,Medium
+ST0665,"Rogers, Thomas and Rocha",HealthTech,2023,Jaipur,485,125812,4934488.6,6485052.95,45264877.96,Seed,B2C,False,4.3,0.12,25,False,High
+ST0666,Ayala-Ross,FinTech,2022,Ahmedabad,412,23830,1513728.04,1627228.59,27459895.68,Series A,B2C,True,4.7,0.08,58,False,Medium
+ST0667,Howard-Flores,Gaming,2019,Delhi,92,198460,4721607.29,5240425.54,5318210.37,Series B,Subscription,True,5.0,0.02,42,False,High
+ST0668,"Johnson, Lee and Cruz",SaaS,2024,Hyderabad,345,36587,4614453.57,4723413.04,24623341.2,Series B,Subscription,False,4.5,0.14,29,False,High
+ST0669,Morrow-Gould,FinTech,2016,Hyderabad,339,169323,3927558.59,5719006.03,21876264.53,Series B,B2C,True,3.1,0.11,38,False,High
+ST0670,Johnson Inc,Robotics,2018,Kolkata,298,97400,645813.16,392256.57,19040745.64,Series C,Marketplace,False,4.3,0.13,76,True,Medium
+ST0671,"Brown, Pearson and Morris",Robotics,2022,Chennai,413,179074,4670286.57,1700916.38,33203951.75,Series A,Marketplace,True,4.0,0.05,2,True,High
+ST0672,"Nelson, Matthews and Smith",AI,2024,Chennai,260,179252,2284364.81,2243029.31,7336241.39,Series B,B2B,False,4.2,0.32,90,True,Medium
+ST0673,Mcgrath Inc,E-commerce,2017,Delhi,439,186210,2874120.05,2932752.66,10824467.9,Series A,B2B,True,3.2,0.39,8,False,Medium
+ST0674,Medina and Sons,Robotics,2021,Chennai,443,128796,3639703.36,2143174.94,40759857.49,Series C,Subscription,False,4.8,0.07,3,True,High
+ST0675,Thompson PLC,Gaming,2016,Pune,392,103593,1961404.84,1738192.58,14187841.51,Series B,B2B,False,4.2,0.09,71,True,Medium
+ST0676,"Bartlett, Soto and Vazquez",EdTech,2025,Bangalore,239,172608,826835.4,313229.43,34812978.52,Series B,B2B,True,3.2,0.07,28,True,Medium
+ST0677,"Reed, Little and Patrick",FinTech,2023,Chennai,197,112964,3400431.88,1423726.12,2863758.85,Series C,B2C,False,3.4,0.19,7,True,Medium
+ST0678,Brown-Henry,Gaming,2025,Hyderabad,130,9911,602824.68,431404.39,15169346.0,Series C,Subscription,False,4.0,0.08,96,True,Low
+ST0679,"Higgins, Lane and Cooper",EdTech,2015,Jaipur,328,172231,2231140.22,479880.65,5875550.33,Series C,Marketplace,True,2.8,0.26,66,True,Medium
+ST0680,Shields-Ellis,E-commerce,2016,Ahmedabad,411,156419,913672.0,757844.25,32247602.62,Series A,Subscription,True,3.6,0.23,13,True,Medium
+ST0681,Harris-Garcia,FinTech,2018,Hyderabad,206,146767,4089139.59,4982685.79,26527878.66,Series A,B2C,True,2.7,0.34,69,False,Medium
+ST0682,"Oliver, Thomas and Johnson",Cybersecurity,2015,Hyderabad,289,118239,4004559.73,1441476.89,6484358.73,Seed,Marketplace,False,3.0,0.07,72,True,High
+ST0683,"May, Lane and Fields",Cybersecurity,2025,Ahmedabad,499,143718,866299.96,1273663.68,32925060.42,Series C,B2C,False,3.1,0.03,67,False,Medium
+ST0684,"Sandoval, Perry and Davis",AI,2018,Bangalore,360,83034,2618104.64,3879573.9,17638250.43,Series A,B2C,False,3.8,0.09,13,False,Medium
+ST0685,Hamilton LLC,Gaming,2016,Ahmedabad,443,57416,4787540.41,4705135.84,10841196.38,Series B,Marketplace,False,3.4,0.06,80,True,High
+ST0686,"Phelps, Jackson and Hill",EdTech,2016,Mumbai,337,43813,2006296.28,618401.3,12746260.7,Series A,Marketplace,True,3.6,0.28,69,True,Low
+ST0687,"Mccullough, Davidson and Rangel",FinTech,2023,Hyderabad,219,41236,1588638.09,1944682.52,18978147.97,Series C,B2B,False,4.9,0.11,35,False,Medium
+ST0688,Miller PLC,FinTech,2021,Delhi,332,24324,1820469.23,1153399.34,13698987.47,Series C,B2B,True,4.7,0.1,2,True,Medium
+ST0689,Solomon-Roach,SaaS,2019,Ahmedabad,94,139012,3644353.8,2181198.3,41076095.29,Series B,B2B,True,3.7,0.22,90,True,Medium
+ST0690,Padilla Inc,Robotics,2024,Kolkata,92,84360,4733086.43,3343605.28,17291385.76,Series C,B2C,False,4.4,0.39,69,True,Medium
+ST0691,Webster Ltd,E-commerce,2018,Jaipur,9,181003,2572691.44,1034578.71,6362099.57,Series C,Subscription,True,3.4,0.3,7,True,Medium
+ST0692,Price-Campbell,Cybersecurity,2025,Hyderabad,229,93799,3994359.8,3406781.56,13827357.57,Series B,Subscription,False,3.6,0.38,30,True,Medium
+ST0693,Turner Inc,Cybersecurity,2023,Noida,437,24629,3177036.64,952161.62,12039835.19,Seed,Subscription,True,2.7,0.23,11,True,Medium
+ST0694,Boyd-Jackson,EdTech,2015,Kolkata,250,131496,2579907.32,3863000.37,44409622.67,Series B,B2C,True,4.2,0.17,79,False,Medium
+ST0695,Mckay-Ball,E-commerce,2017,Ahmedabad,315,118611,4823590.44,5194422.38,44102431.75,Series B,B2B,False,3.8,0.1,10,False,High
+ST0696,"Banks, Powell and Hall",FinTech,2019,Mumbai,258,100377,860714.98,1257200.69,16931031.87,Series C,Marketplace,False,4.2,0.33,99,False,Low
+ST0697,Perez-Oconnell,Robotics,2015,Noida,114,1585,3692748.35,3469316.87,10912286.58,Series C,B2B,False,3.3,0.37,83,True,Medium
+ST0698,"Allen, Melendez and Parker",E-commerce,2015,Hyderabad,8,162357,2307165.84,1356280.92,5402844.55,Series C,Subscription,True,3.4,0.29,52,True,Medium
+ST0699,Johnson-Whitney,Cybersecurity,2018,Noida,48,139699,2576449.81,1030126.12,6235940.29,Series C,Marketplace,False,3.7,0.07,85,True,Medium
+ST0700,"Prince, Brown and Ramos",HealthTech,2017,Chennai,191,113287,4462045.0,4004041.07,13510609.65,Series C,B2B,False,5.0,0.27,57,True,High
+ST0701,"Thompson, Baker and White",HealthTech,2025,Delhi,457,186917,1000338.44,446588.28,2060802.56,Series C,Marketplace,True,3.5,0.3,5,True,Medium
+ST0702,Rose Inc,Robotics,2021,Pune,220,129206,2755117.13,3415700.85,35730331.88,Seed,B2B,True,3.3,0.31,52,False,Medium
+ST0703,Gutierrez Ltd,SaaS,2015,Kolkata,69,41774,1727161.55,376078.45,34237661.32,Series C,Marketplace,False,2.6,0.33,55,True,Low
+ST0704,"Myers, Smith and Gutierrez",FinTech,2019,Delhi,253,22656,3806890.49,1987468.99,7667161.46,Series C,B2C,False,3.8,0.11,99,True,Medium
+ST0705,Hogan-Green,HealthTech,2018,Hyderabad,366,28017,3508713.32,2993052.2,9100353.06,Series A,Subscription,True,5.0,0.24,82,True,Medium
+ST0706,"Stephenson, Martin and Glover",Robotics,2019,Delhi,145,51378,4646200.67,3504136.06,30842544.54,Series A,Marketplace,False,2.7,0.03,53,True,High
+ST0707,Parker-Cruz,Gaming,2018,Chennai,250,17082,2554219.83,2648815.62,15249285.0,Seed,B2C,True,3.2,0.12,45,False,Medium
+ST0708,Adams LLC,HealthTech,2019,Noida,5,14665,3305549.48,2043264.22,14301582.65,Series B,Marketplace,False,3.2,0.25,56,True,Medium
+ST0709,Silva Ltd,SaaS,2023,Jaipur,62,26398,3348048.23,3642174.16,38534659.04,Series B,B2C,False,2.8,0.15,47,False,Medium
+ST0710,Wright Ltd,EdTech,2018,Noida,112,154177,1926406.29,2607105.69,6567745.99,Seed,B2B,False,4.4,0.06,76,False,Medium
+ST0711,Campbell PLC,Robotics,2019,Ahmedabad,159,191146,2376250.62,2826037.83,26701199.85,Series B,Marketplace,False,2.9,0.06,54,False,Medium
+ST0712,Wiley-Garza,HealthTech,2024,Mumbai,327,189042,595970.39,457087.53,24166889.88,Series A,Marketplace,True,3.8,0.38,3,True,Low
+ST0713,Lucero-Hubbard,Robotics,2016,Pune,494,149419,313359.02,458825.35,9550036.29,Series C,Subscription,False,4.5,0.2,69,False,Medium
+ST0714,Hawkins-Davis,ClimateTech,2023,Ahmedabad,210,160178,1364756.0,599518.54,8042152.62,Series B,Marketplace,True,3.0,0.28,66,True,Medium
+ST0715,Hawkins-Shelton,HealthTech,2019,Pune,156,186664,1349888.11,478986.76,11235276.04,Series B,B2B,True,3.8,0.12,82,True,Medium
+ST0716,"Nash, Harvey and Morales",Robotics,2019,Pune,426,56043,2677628.67,540398.88,17405721.85,Series C,Marketplace,False,4.0,0.15,11,True,Medium
+ST0717,Murphy LLC,Robotics,2025,Jaipur,34,165090,4081451.56,5187979.29,11003015.66,Seed,Subscription,False,4.9,0.08,3,False,High
+ST0718,Hernandez Ltd,Gaming,2017,Noida,450,165162,3175184.65,2908917.3,40851509.13,Series A,Subscription,False,3.1,0.11,75,True,Medium
+ST0719,Wright Group,HealthTech,2025,Mumbai,80,126568,477518.4,208182.55,9292149.73,Seed,Marketplace,True,4.7,0.08,63,True,Medium
+ST0720,"Ray, Archer and Medina",Gaming,2016,Ahmedabad,458,47591,4089321.01,4471986.88,9433008.46,Series A,B2B,True,2.9,0.18,59,False,Medium
+ST0721,Jackson-Mcfarland,FinTech,2019,Pune,198,101660,113372.42,144496.66,38184115.52,Seed,B2B,True,4.1,0.03,32,False,Medium
+ST0722,Hayes PLC,HealthTech,2019,Chennai,282,193972,4093094.25,5355962.31,4294011.4,Series C,B2C,True,2.8,0.31,57,False,Medium
+ST0723,"Fleming, Nelson and Williamson",FinTech,2023,Kolkata,33,143482,3463285.58,3517768.63,6197621.98,Series A,B2B,True,4.6,0.05,38,False,High
+ST0724,"Munoz, Esparza and Brooks",FinTech,2022,Pune,17,60421,2141405.81,838551.95,32785461.64,Seed,B2C,True,3.1,0.35,50,True,Low
+ST0725,"Wilson, Wilson and Smith",SaaS,2017,Pune,494,74875,1792966.44,1793694.02,5961630.97,Series C,Marketplace,True,4.8,0.37,6,False,Medium
+ST0726,Mays-Glover,Cybersecurity,2022,Chennai,352,112475,759597.98,810836.97,15113110.15,Series B,B2B,True,4.5,0.15,14,False,Medium
+ST0727,Davis LLC,FinTech,2016,Jaipur,446,39965,3891142.36,1519747.18,7431620.14,Series C,Marketplace,True,3.6,0.32,62,True,Medium
+ST0728,"Jacobs, Edwards and Travis",Gaming,2024,Chennai,51,85686,4973910.7,2170783.93,19281619.01,Series A,B2C,False,3.3,0.18,89,True,High
+ST0729,Collins-Garcia,Gaming,2023,Jaipur,219,145005,2490540.45,2226298.69,26647097.9,Series A,B2B,True,4.6,0.16,75,True,Medium
+ST0730,Hall-Nixon,AI,2020,Chennai,190,1751,1024365.54,1337589.52,18151802.19,Series A,Marketplace,False,3.7,0.06,15,False,Low
+ST0731,Brown-Allen,FinTech,2017,Kolkata,78,145572,4859379.81,6739182.69,12162745.55,Seed,Subscription,False,4.6,0.03,18,False,High
+ST0732,"Booth, Villa and Lopez",E-commerce,2017,Hyderabad,32,184868,538989.06,515321.62,23867487.16,Series A,B2B,True,4.0,0.07,19,True,Medium
+ST0733,Solis Inc,ClimateTech,2021,Chennai,296,110181,757088.95,330962.85,37190719.03,Series C,B2B,False,4.4,0.28,39,True,Low
+ST0734,"Dennis, Nelson and Arnold",Gaming,2025,Noida,61,41864,309403.99,320292.09,30228471.26,Series B,Marketplace,True,2.9,0.07,51,False,Low
+ST0735,Gilmore-Martin,SaaS,2015,Delhi,221,42104,1366419.76,436595.0,18909135.99,Series C,B2C,True,4.9,0.3,52,True,Low
+ST0736,"Shelton, Frazier and Thompson",Gaming,2018,Mumbai,423,182515,2347496.12,1425274.19,32112447.17,Seed,B2B,True,4.6,0.07,48,True,High
+ST0737,Ray Ltd,SaaS,2015,Mumbai,190,159122,3896198.33,2478423.02,12014519.37,Series A,B2C,True,2.9,0.05,28,True,High
+ST0738,Sharp-Lloyd,E-commerce,2016,Mumbai,128,71560,434346.38,408789.27,2291483.18,Seed,Marketplace,False,5.0,0.2,7,True,Low
+ST0739,"Hunt, Silva and Miller",FinTech,2020,Kolkata,495,105369,2506078.26,1525735.97,19562533.3,Seed,B2C,True,3.4,0.06,87,True,Medium
+ST0740,Sandoval-Lang,FinTech,2018,Delhi,305,101168,2389995.64,3177394.18,1918543.94,Series A,B2C,False,2.9,0.28,11,False,Medium
+ST0741,Savage-Zavala,Gaming,2018,Delhi,234,35392,1701713.34,1137444.36,42804830.02,Seed,B2C,False,3.6,0.36,100,True,Low
+ST0742,"Morales, Mccoy and Clayton",ClimateTech,2016,Noida,54,4916,721686.38,960993.78,27379445.82,Series B,B2C,False,4.9,0.31,12,False,Low
+ST0743,Salazar and Sons,ClimateTech,2019,Noida,87,18868,1407785.44,946491.8,4507000.62,Series A,B2B,False,2.9,0.31,34,True,Low
+ST0744,Barnett-Vincent,Robotics,2024,Chennai,25,96282,4296426.24,3098672.74,42857197.91,Series B,B2B,False,4.8,0.06,47,True,High
+ST0745,Pacheco-Mcmahon,EdTech,2023,Bangalore,264,118988,1321508.89,1768439.75,34143651.54,Series A,B2B,False,4.1,0.26,95,False,Medium
+ST0746,Collins-Singh,ClimateTech,2022,Ahmedabad,197,42472,2854967.29,3739944.19,11191411.94,Series C,B2B,True,4.7,0.27,45,False,Medium
+ST0747,Ferguson-Valdez,E-commerce,2020,Jaipur,97,192831,550658.18,797029.58,19877396.69,Series C,B2C,False,3.6,0.17,9,False,Medium
+ST0748,Mullen Inc,AI,2024,Kolkata,63,73974,2278347.44,2070119.22,47429257.32,Seed,Marketplace,False,2.9,0.09,73,True,Medium
+ST0749,Robinson Ltd,HealthTech,2016,Pune,247,56946,279846.8,371755.98,47634618.22,Seed,Marketplace,False,4.2,0.12,82,False,Low
+ST0750,Vargas-Spence,AI,2016,Kolkata,46,79207,4370141.69,3438633.8,21015106.94,Series B,Marketplace,True,3.0,0.36,24,True,Medium
+ST0751,Wood and Sons,E-commerce,2024,Kolkata,106,92560,4710288.81,3891230.03,26798539.23,Seed,B2C,True,4.5,0.39,56,True,Medium
+ST0752,Dalton and Sons,E-commerce,2015,Pune,375,176102,2896661.91,1123911.81,33219943.83,Series C,B2C,False,4.6,0.3,95,True,Medium
+ST0753,Collins Group,HealthTech,2025,Noida,447,83944,576898.31,842830.53,20349012.58,Seed,B2B,True,3.8,0.01,58,False,Medium
+ST0754,"Stevens, Crawford and Jimenez",SaaS,2015,Chennai,386,50193,2106678.78,1916892.5,8346746.35,Series B,B2B,False,3.4,0.15,25,True,Medium
+ST0755,Case-Castro,E-commerce,2020,Ahmedabad,464,81469,2515405.15,3340673.34,34980891.45,Series C,Marketplace,True,4.1,0.19,53,False,Medium
+ST0756,Harris Inc,Gaming,2025,Mumbai,479,47088,2299529.59,1575310.99,27660040.93,Seed,B2B,True,2.9,0.18,37,True,Medium
+ST0757,Meyer-Leach,FinTech,2025,Noida,50,171295,91968.2,129881.7,5228581.34,Seed,Marketplace,False,4.4,0.25,70,False,Low
+ST0758,Deleon Ltd,ClimateTech,2021,Kolkata,113,59426,3886632.46,3564291.82,5769330.21,Seed,Marketplace,True,4.6,0.38,45,True,Medium
+ST0759,Williams-Bennett,EdTech,2015,Kolkata,264,75345,1345369.61,1421095.61,15404464.48,Seed,B2B,True,4.8,0.36,87,False,Low
+ST0760,Harrison LLC,Gaming,2018,Ahmedabad,83,99148,4205440.43,3678297.81,37075209.26,Series C,B2C,False,3.3,0.08,74,True,High
+ST0761,Thompson Group,Gaming,2020,Ahmedabad,429,14521,4008644.91,3813061.92,6487079.7,Series A,Subscription,True,4.1,0.39,23,True,Medium
+ST0762,"Barber, Johnson and Tran",Cybersecurity,2023,Pune,55,187128,4007848.15,3428851.0,31590481.37,Series B,B2C,True,4.5,0.34,81,True,High
+ST0763,Bond and Sons,SaaS,2021,Bangalore,52,7721,2192730.98,2231240.52,29684745.18,Series A,Subscription,False,2.6,0.29,11,False,Low
+ST0764,Perez and Sons,Cybersecurity,2025,Bangalore,100,63841,3266088.37,1594771.48,9731754.28,Series B,B2B,True,4.6,0.29,49,True,Medium
+ST0765,Gonzalez LLC,HealthTech,2019,Mumbai,326,7066,3195548.98,3045872.5,5215790.55,Series A,B2B,True,3.6,0.24,14,True,Medium
+ST0766,Douglas-Espinoza,FinTech,2018,Kolkata,258,95738,4564468.46,2146962.52,5078552.4,Series C,Marketplace,False,4.5,0.17,63,True,High
+ST0767,"Curtis, Thompson and Rodriguez",FinTech,2020,Chennai,418,43232,907234.11,193406.33,8974919.75,Series C,B2B,True,3.9,0.25,5,True,Low
+ST0768,Russell and Sons,HealthTech,2018,Chennai,272,195431,1279960.1,458317.48,30325233.17,Seed,B2C,True,3.8,0.21,98,True,Medium
+ST0769,Perez and Sons,E-commerce,2023,Mumbai,172,37323,1106607.95,1268246.93,46995412.77,Series C,Subscription,False,3.2,0.2,12,False,Low
+ST0770,Morrison LLC,FinTech,2024,Jaipur,267,105842,4612517.01,2422129.97,9933928.36,Series B,B2C,True,4.6,0.29,51,True,High
+ST0771,Chapman and Sons,FinTech,2024,Kolkata,493,190283,2444280.63,3294192.53,21215679.22,Series C,B2C,False,4.4,0.33,80,False,Medium
+ST0772,"Andrews, Peterson and Davila",Cybersecurity,2024,Ahmedabad,196,166858,4098515.03,3214155.49,44478011.82,Series B,Subscription,True,4.9,0.11,53,True,High
+ST0773,Lopez PLC,E-commerce,2017,Chennai,63,48160,4047111.93,3068531.76,9336448.84,Seed,B2B,False,3.1,0.09,48,True,Medium
+ST0774,"Meyer, Arias and Espinoza",Gaming,2019,Jaipur,357,3857,3586845.08,1714168.17,28395089.17,Series A,B2C,True,3.3,0.1,9,True,Medium
+ST0775,Haley-Sandoval,Gaming,2025,Kolkata,292,73888,3584165.46,5125902.76,40380953.49,Series B,Marketplace,True,4.2,0.23,83,False,Medium
+ST0776,"Hudson, Freeman and Hill",SaaS,2020,Jaipur,105,14018,4015598.71,3406216.58,49513472.84,Series C,B2C,True,3.6,0.06,22,True,Medium
+ST0777,Smith-May,AI,2023,Ahmedabad,150,5675,3221896.38,4230137.26,49398340.54,Seed,Marketplace,True,4.8,0.12,52,False,Medium
+ST0778,"Hamilton, Tucker and Nelson",FinTech,2023,Chennai,40,124179,484647.89,602546.86,36176520.8,Series C,B2B,False,3.2,0.3,52,False,Low
+ST0779,"Jackson, Waters and Hernandez",FinTech,2015,Delhi,157,183572,4919994.52,4139376.44,32072801.92,Seed,B2B,True,4.8,0.34,80,True,High
+ST0780,Hernandez and Sons,Robotics,2015,Bangalore,58,85635,4308329.96,4918085.17,11355745.75,Series B,B2B,True,2.7,0.29,48,False,Medium
+ST0781,"Frederick, Christian and Smith",HealthTech,2024,Noida,29,80767,384460.45,241490.25,30656894.12,Seed,B2C,False,4.5,0.12,22,True,Low
+ST0782,Smith-Murray,Robotics,2023,Delhi,446,39797,3767643.79,5101909.39,48293521.36,Series C,Subscription,False,3.5,0.18,16,False,Medium
+ST0783,Ellis Ltd,EdTech,2016,Hyderabad,169,192591,2418704.49,772387.12,38321789.03,Series C,B2B,True,4.3,0.15,32,True,Medium
+ST0784,Smith-Stanley,Robotics,2023,Chennai,11,176767,1088515.99,1375954.83,9436475.62,Series B,Subscription,True,2.8,0.09,76,False,Medium
+ST0785,Anderson-Jackson,Robotics,2018,Kolkata,439,133254,537245.77,198285.95,45839027.34,Series A,B2B,False,3.5,0.19,80,True,Low
+ST0786,Gonzalez-Boyd,FinTech,2018,Bangalore,221,44043,3434467.34,4935133.72,28883252.01,Series C,B2C,False,2.8,0.19,14,False,Medium
+ST0787,"Murphy, Robertson and Robinson",EdTech,2017,Kolkata,19,125843,3312808.66,2611928.3,13315657.33,Series C,Marketplace,True,4.8,0.04,56,True,High
+ST0788,Norton-Cantrell,Gaming,2017,Jaipur,230,72457,1855205.57,489541.85,19157000.32,Series B,Subscription,False,4.8,0.09,25,True,Medium
+ST0789,Harris Inc,Cybersecurity,2018,Hyderabad,60,179562,258858.53,135545.45,5598585.56,Seed,Marketplace,True,2.8,0.36,74,True,Low
+ST0790,"Webb, Sanchez and Ellison",Cybersecurity,2022,Delhi,456,163587,3500566.27,2541156.34,19674626.98,Series A,B2C,False,3.0,0.33,89,True,Medium
+ST0791,Kelly-Kim,ClimateTech,2019,Delhi,331,76495,3532208.2,2028802.27,205188.18,Series A,Marketplace,True,3.0,0.36,80,True,Medium
+ST0792,"Casey, Taylor and Hodge",HealthTech,2019,Hyderabad,90,50111,1667455.03,1320259.57,48114039.25,Series A,B2B,False,4.2,0.18,3,True,Medium
+ST0793,Sellers-Ryan,Cybersecurity,2018,Ahmedabad,247,153871,15022.3,20057.54,23654783.82,Series A,B2C,True,2.6,0.02,88,False,Low
+ST0794,"Lee, Walker and Wood",ClimateTech,2019,Chennai,56,80849,4021424.16,2559156.15,24558559.41,Series C,B2B,False,3.4,0.22,85,True,Medium
+ST0795,Holden LLC,FinTech,2019,Ahmedabad,159,187163,1675356.96,1462888.81,33213654.33,Seed,B2C,False,4.7,0.34,62,True,Medium
+ST0796,Krueger PLC,E-commerce,2018,Hyderabad,443,58738,3300240.9,1267698.65,24916719.96,Series A,Subscription,True,3.1,0.3,56,True,Medium
+ST0797,Stewart-Holmes,HealthTech,2019,Chennai,499,72807,4386948.74,4748617.5,44966108.05,Series B,Subscription,False,3.6,0.38,68,False,Medium
+ST0798,"Harris, Montes and Simmons",ClimateTech,2024,Chennai,488,73416,1553523.25,393709.35,26027882.76,Series B,B2B,True,3.4,0.25,56,True,Low
+ST0799,Adams-Alvarez,Cybersecurity,2022,Mumbai,260,180706,744184.13,807588.61,26183149.16,Seed,Marketplace,True,3.2,0.23,21,False,Medium
+ST0800,"Navarro, Brown and Pineda",AI,2015,Mumbai,237,11735,1094453.26,1393361.34,6215616.51,Series A,Marketplace,False,3.7,0.01,46,False,Medium
+ST0801,Gray and Sons,EdTech,2021,Jaipur,407,132594,3329976.73,3994476.89,7794098.92,Seed,Marketplace,True,2.7,0.12,94,False,Medium
+ST0802,"Clark, Adams and Morrison",Cybersecurity,2019,Jaipur,21,125040,4665344.47,2441594.3,33941088.84,Series B,B2C,False,3.5,0.17,13,True,High
+ST0803,"Wilkins, Stein and Larson",Cybersecurity,2019,Hyderabad,352,85536,4023857.45,1532805.07,38394634.91,Series B,Subscription,True,3.1,0.17,26,True,Medium
+ST0804,"Lewis, Barron and Hill",ClimateTech,2020,Kolkata,197,115528,489251.07,432763.52,34721962.75,Series C,Subscription,False,3.8,0.28,46,True,Low
+ST0805,White PLC,EdTech,2024,Ahmedabad,241,8254,4563665.87,1069489.42,38350146.66,Series B,B2C,False,2.7,0.06,39,True,Medium
+ST0806,Travis-Schmitt,ClimateTech,2015,Hyderabad,32,199006,4227085.64,1537461.19,33520457.6,Seed,Marketplace,True,3.7,0.31,67,True,High
+ST0807,"Rios, Walls and Brown",SaaS,2025,Ahmedabad,175,156802,496021.32,286576.32,24099321.62,Seed,B2C,True,3.3,0.03,95,True,Medium
+ST0808,Ochoa-Jennings,Cybersecurity,2015,Noida,292,195097,4836719.52,1825008.3,44757864.44,Series A,B2B,True,4.1,0.07,81,True,High
+ST0809,Spencer LLC,ClimateTech,2021,Bangalore,5,41113,3022915.4,1080222.93,4888338.65,Seed,Marketplace,False,3.0,0.19,65,True,Medium
+ST0810,Hart Inc,SaaS,2016,Kolkata,252,49246,4103152.08,5310451.42,27358626.42,Series A,B2B,True,4.6,0.28,85,False,Medium
+ST0811,"White, Dudley and Cabrera",Cybersecurity,2025,Hyderabad,77,196192,3290752.16,1388724.2,37096152.78,Series C,Marketplace,False,3.9,0.2,38,True,High
+ST0812,Pham-Medina,FinTech,2024,Kolkata,205,102140,3491286.99,1185419.68,20873978.6,Seed,Marketplace,True,3.6,0.02,59,True,High
+ST0813,"Diaz, Singleton and Johnson",ClimateTech,2019,Bangalore,335,171504,4467172.66,4493258.27,2179458.25,Series A,Marketplace,True,4.8,0.39,60,False,High
+ST0814,Nelson and Sons,E-commerce,2022,Pune,183,186132,2630027.69,2280125.39,8766119.11,Series B,Marketplace,False,2.9,0.27,73,True,Medium
+ST0815,"Gilbert, Sullivan and Moore",Robotics,2019,Pune,39,170118,2423885.86,3517837.69,30311797.81,Series B,Marketplace,False,3.0,0.29,65,False,Medium
+ST0816,Cantrell-Miller,ClimateTech,2020,Delhi,39,12777,157314.0,181342.26,11623630.3,Series A,B2B,True,4.2,0.2,87,False,Low
+ST0817,"Williamson, Morse and Allen",FinTech,2022,Chennai,377,101685,3781511.23,2821283.44,3265276.63,Seed,B2C,False,4.0,0.05,96,True,High
+ST0818,Byrd Inc,ClimateTech,2025,Mumbai,60,184166,2253053.06,840798.02,31887918.89,Series A,B2C,True,3.9,0.09,63,True,Medium
+ST0819,"Sanders, Hoffman and Mcdonald",AI,2017,Bangalore,227,139550,4045274.37,1820310.99,29126291.93,Series B,Subscription,True,4.1,0.27,27,True,High
+ST0820,Cooper Group,SaaS,2022,Ahmedabad,179,49576,3414982.42,4934877.37,36427761.92,Series B,Marketplace,True,3.8,0.08,27,False,Medium
+ST0821,"Williams, Newman and Chavez",Cybersecurity,2016,Hyderabad,415,18604,2200001.53,2228847.75,43705146.24,Series C,B2C,True,3.9,0.06,67,False,Medium
+ST0822,Wheeler-Miller,E-commerce,2016,Pune,312,142698,1661289.78,816071.38,47033845.06,Series B,B2B,True,4.8,0.11,91,True,Medium
+ST0823,Jones Group,SaaS,2022,Mumbai,441,136727,4659727.16,3961052.84,19991021.97,Seed,B2B,False,2.6,0.28,15,True,Medium
+ST0824,"Carr, Oneill and Dixon",AI,2018,Noida,220,69388,1010551.17,1368727.33,3016628.85,Seed,B2B,False,3.0,0.33,43,False,Low
+ST0825,Green and Sons,AI,2016,Bangalore,41,110114,2994756.67,2983264.13,4075644.74,Series C,B2C,False,3.9,0.38,35,True,Medium
+ST0826,Hall-Johnson,EdTech,2023,Jaipur,225,126198,1524057.57,1988565.25,48574709.16,Series C,B2B,False,2.6,0.03,100,False,Medium
+ST0827,"Lee, Garcia and Howell",FinTech,2024,Chennai,31,102482,3830750.76,4229427.3,21514446.5,Series B,B2C,False,3.6,0.06,57,False,High
+ST0828,Mcdaniel-Duke,SaaS,2015,Bangalore,228,16184,1198469.34,383016.48,551980.03,Series A,B2B,True,3.5,0.3,69,True,Low
+ST0829,"Wong, Patton and Crawford",HealthTech,2024,Kolkata,34,34217,2198393.85,1247313.21,15740587.87,Series C,B2B,True,4.0,0.36,38,True,Low
+ST0830,Hernandez Ltd,ClimateTech,2019,Chennai,44,66588,4692467.01,2194287.9,35277496.54,Series B,B2C,False,4.5,0.36,29,True,Medium
+ST0831,Williams-Duarte,Cybersecurity,2016,Delhi,168,183916,2711681.68,910288.82,17364440.86,Series A,B2C,False,3.5,0.38,63,True,Medium
+ST0832,Barnes-Hancock,ClimateTech,2025,Noida,384,145956,1061740.46,726344.06,40828166.49,Seed,B2B,False,2.9,0.39,90,True,Low
+ST0833,Harvey Inc,Gaming,2022,Bangalore,433,9848,1358789.88,1310841.18,15055621.72,Series C,Subscription,False,4.9,0.03,79,True,Medium
+ST0834,"Bowers, Cooper and Morrow",E-commerce,2015,Jaipur,27,59837,1036593.3,455846.92,21582693.99,Series B,Marketplace,True,2.6,0.13,70,True,Low
+ST0835,"Miller, Holt and Morgan",AI,2016,Ahmedabad,392,8168,1711312.48,2187076.67,21732096.71,Series C,Marketplace,False,3.6,0.29,95,False,Low
+ST0836,"Torres, Neal and Collier",HealthTech,2015,Mumbai,222,151104,3598908.78,4317668.65,13042030.4,Series B,B2B,True,4.9,0.19,31,False,High
+ST0837,Lee and Sons,SaaS,2015,Hyderabad,399,143292,1486166.34,1400574.19,1978380.12,Series B,Marketplace,False,3.2,0.11,33,True,Medium
+ST0838,"Lee, King and Bray",Robotics,2018,Kolkata,438,47867,2224605.34,494856.1,493091.56,Seed,B2B,False,2.6,0.15,82,True,Medium
+ST0839,Simon-Mccoy,ClimateTech,2017,Delhi,464,160993,2761724.87,3974898.89,22049953.83,Series A,B2C,True,3.1,0.32,34,False,Medium
+ST0840,Huang PLC,EdTech,2015,Mumbai,124,31001,3276458.14,1440108.66,25360623.33,Series B,B2B,False,3.6,0.13,71,True,Medium
+ST0841,"Hampton, Garcia and Booth",EdTech,2018,Chennai,281,189303,233218.0,117799.79,5502715.76,Series B,Subscription,True,3.8,0.05,10,True,Medium
+ST0842,Underwood-Holt,E-commerce,2022,Mumbai,333,112797,4380507.16,1690890.34,16360700.06,Seed,B2C,False,4.5,0.14,53,True,High
+ST0843,Perez Ltd,Robotics,2024,Chennai,27,77250,4652239.49,6445372.89,1325487.55,Series A,Subscription,True,4.0,0.33,66,False,Medium
+ST0844,"Jones, Nguyen and Hendricks",SaaS,2023,Jaipur,341,191384,758872.68,904117.41,32478143.29,Series C,B2B,True,4.9,0.38,29,False,Medium
+ST0845,Richardson PLC,E-commerce,2018,Chennai,315,124818,3299396.82,2891712.78,15881120.83,Series A,Subscription,False,3.0,0.23,32,True,Medium
+ST0846,"Waters, Massey and Rivera",Robotics,2016,Chennai,388,31255,3468434.93,2700210.35,47882546.7,Series C,B2C,False,3.5,0.04,72,True,Medium
+ST0847,Ramsey LLC,SaaS,2025,Pune,407,110799,1156518.88,1475911.73,49337911.3,Series B,Marketplace,False,4.8,0.11,53,False,Medium
+ST0848,"Meyer, Neal and Lawson",EdTech,2017,Noida,165,31923,416714.73,311423.16,49163225.14,Seed,B2C,True,3.9,0.26,99,True,Low
+ST0849,"Smith, Parsons and White",AI,2017,Hyderabad,219,70042,3829892.69,4307849.65,23519520.42,Series A,Subscription,False,2.8,0.35,56,False,Medium
+ST0850,"Allen, Fisher and Garcia",SaaS,2024,Jaipur,186,34411,2017564.36,1864275.9,35613576.4,Seed,B2B,True,2.8,0.36,44,True,Low
+ST0851,Chavez LLC,ClimateTech,2017,Pune,383,94050,4750096.09,6573546.32,31560058.27,Seed,B2C,True,4.4,0.18,97,False,High
+ST0852,Gonzalez and Sons,Cybersecurity,2016,Delhi,308,156464,1855670.8,1937740.05,18999760.32,Series B,Subscription,False,3.6,0.21,76,False,Medium
+ST0853,"Smith, Anderson and Gonzalez",E-commerce,2017,Pune,29,148883,2593211.43,2289161.89,25435983.16,Seed,B2C,False,4.8,0.12,50,True,Medium
+ST0854,Hamilton-Barrett,ClimateTech,2022,Delhi,270,73943,2879937.74,2880285.48,5018353.43,Series A,Marketplace,False,3.2,0.06,36,False,Medium
+ST0855,"Rubio, Soto and Whitney",HealthTech,2015,Jaipur,315,198517,539536.07,270403.05,13967503.96,Seed,B2C,True,2.7,0.23,66,True,Low
+ST0856,Gregory Inc,ClimateTech,2019,Hyderabad,255,7757,1854007.39,1050088.98,47396594.67,Seed,Subscription,False,3.6,0.18,17,True,Low
+ST0857,Sutton-Stephens,EdTech,2016,Chennai,257,69958,443450.51,167563.74,13958737.29,Series A,Marketplace,False,4.2,0.39,11,True,Low
+ST0858,Williams LLC,Gaming,2016,Ahmedabad,237,166314,3680253.51,3951509.98,3750720.79,Series B,B2C,True,4.2,0.36,5,False,Medium
+ST0859,Skinner-Johnson,Cybersecurity,2022,Pune,490,167329,3140152.39,1631899.04,29337851.49,Series C,B2C,False,4.7,0.1,26,True,High
+ST0860,Stewart PLC,Gaming,2016,Noida,149,35548,1000879.11,1339799.93,47544096.27,Series A,B2C,True,4.6,0.3,1,False,Low
+ST0861,"Hurst, Monroe and Mckay",HealthTech,2019,Delhi,219,181350,1322738.33,918479.47,29215752.84,Series B,Subscription,False,4.1,0.2,85,True,Medium
+ST0862,"Krueger, Johnson and Gomez",Cybersecurity,2021,Noida,412,166157,1967128.18,1306696.83,24073904.68,Series B,B2C,False,2.7,0.05,97,True,Medium
+ST0863,Gonzalez-Gordon,ClimateTech,2022,Jaipur,64,47188,2329032.3,1431371.41,5721137.86,Series C,B2C,True,4.2,0.28,100,True,Medium
+ST0864,"Jackson, Thomas and Mitchell",E-commerce,2021,Kolkata,153,71234,2542362.14,3449359.49,39152253.33,Series C,Subscription,False,2.7,0.31,34,False,Medium
+ST0865,Howell PLC,EdTech,2024,Pune,138,15321,1348903.0,1546710.05,17025085.76,Series A,B2B,False,4.5,0.13,53,False,Medium
+ST0866,Martinez-Lewis,E-commerce,2023,Hyderabad,71,159586,2703438.88,3880413.8,1104828.78,Seed,B2C,False,3.4,0.31,43,False,Medium
+ST0867,"Rodriguez, Martinez and Martinez",E-commerce,2020,Kolkata,279,53019,4926234.31,6352841.07,19806538.13,Series A,B2C,True,4.3,0.12,21,False,High
+ST0868,"Lucas, Schultz and Gilbert",Cybersecurity,2015,Delhi,23,6250,3778057.84,3341775.27,25099891.06,Series A,B2B,False,4.5,0.03,37,True,Medium
+ST0869,Elliott Ltd,FinTech,2016,Ahmedabad,388,33412,4066849.25,2811062.15,20067509.26,Series C,B2B,True,4.5,0.35,11,True,Medium
+ST0870,Meyers-Taylor,Cybersecurity,2020,Kolkata,385,143002,3028310.59,1203456.15,36806876.23,Seed,Marketplace,False,4.5,0.09,78,True,High
+ST0871,Miller Group,Gaming,2023,Mumbai,239,54127,507399.3,740823.83,28831249.02,Series C,Marketplace,True,3.4,0.18,29,False,Low
+ST0872,"Clark, Morgan and Hill",EdTech,2024,Bangalore,200,5512,4965838.24,5689980.06,47575296.33,Series C,B2C,False,4.4,0.29,58,False,Medium
+ST0873,Thomas-Fitzgerald,Robotics,2017,Delhi,194,125991,2820134.81,2920712.48,16655151.97,Series C,B2C,True,4.5,0.39,13,False,Medium
+ST0874,Davis LLC,ClimateTech,2019,Kolkata,77,106695,3086277.47,2517072.4,36165469.07,Series B,Marketplace,True,3.9,0.1,99,True,Medium
+ST0875,Bryant Group,ClimateTech,2023,Noida,23,85264,3448098.03,3373443.66,43577824.41,Series B,B2C,False,3.2,0.09,72,True,Medium
+ST0876,"Abbott, Jimenez and Flowers",FinTech,2021,Pune,241,186825,2420151.7,2229563.35,36997265.32,Seed,B2C,True,4.3,0.37,55,True,Medium
+ST0877,"Ayers, Ballard and Alvarez",ClimateTech,2017,Ahmedabad,90,52738,2193630.29,3210358.53,2001144.29,Series C,Subscription,True,3.6,0.08,68,False,Medium
+ST0878,"Watkins, Byrd and Gutierrez",E-commerce,2024,Pune,156,31823,2183042.22,1271601.91,46102412.37,Series A,Marketplace,True,4.2,0.21,79,True,Medium
+ST0879,Fletcher-Hamilton,HealthTech,2017,Ahmedabad,416,161956,4760456.86,3249627.34,30245663.22,Series C,B2B,False,3.7,0.09,43,True,High
+ST0880,"Jones, White and Baker",FinTech,2023,Noida,218,47982,760241.89,218312.9,48849957.89,Series B,B2B,True,3.3,0.08,89,True,Low
+ST0881,Stafford PLC,EdTech,2019,Mumbai,324,123865,2976327.76,853621.52,31835359.22,Series C,Marketplace,False,4.7,0.14,2,True,Medium
+ST0882,Scott Ltd,EdTech,2019,Pune,324,106714,4672196.52,4342554.3,32097887.76,Series B,B2B,True,3.0,0.24,14,True,High
+ST0883,Rivera Group,SaaS,2025,Noida,413,137922,2940712.14,3516711.32,16541501.49,Series A,B2C,True,4.4,0.24,36,False,Medium
+ST0884,"Savage, Ward and Gonzalez",E-commerce,2016,Bangalore,406,61773,4945545.26,1576341.86,40177523.72,Series A,Subscription,False,2.9,0.07,1,True,High
+ST0885,Page Ltd,ClimateTech,2020,Mumbai,345,124650,1642175.93,1396650.33,5908959.99,Series B,B2B,True,3.9,0.16,50,True,Medium
+ST0886,Meza-Kelley,Cybersecurity,2025,Hyderabad,494,44546,4727994.76,6069262.64,35581816.51,Series C,Marketplace,True,4.6,0.23,63,False,High
+ST0887,Norman-Olsen,Gaming,2020,Pune,17,96862,4278307.84,5142390.05,17332278.29,Seed,B2C,False,3.6,0.25,25,False,Medium
+ST0888,"Hall, Shaw and Moss",AI,2024,Mumbai,189,138888,982494.15,945203.52,16456154.66,Seed,Marketplace,False,4.8,0.37,65,True,Low
+ST0889,Lopez Group,ClimateTech,2024,Noida,208,12512,4978731.86,5553993.62,13744982.84,Series C,B2C,False,2.6,0.23,4,False,Medium
+ST0890,Martin-Smith,HealthTech,2017,Hyderabad,388,170750,3755425.89,4693005.11,1957770.0,Series C,B2B,True,2.6,0.36,20,False,Medium
+ST0891,"Harris, Graves and Meyer",SaaS,2015,Chennai,232,168111,3555848.44,2163760.51,42901620.71,Series B,B2C,False,3.2,0.34,84,True,Medium
+ST0892,Fischer Inc,Robotics,2017,Mumbai,269,4714,4703320.36,3405791.9,41893947.86,Seed,B2C,False,4.2,0.04,98,True,High
+ST0893,Hall and Sons,Cybersecurity,2019,Ahmedabad,27,73227,3046559.84,3336993.62,20492113.04,Series B,B2B,False,4.1,0.34,1,False,Medium
+ST0894,"Savage, Ward and Mccormick",FinTech,2017,Chennai,243,149943,4182167.08,1304517.46,46517128.9,Seed,B2C,True,2.7,0.37,24,True,Medium
+ST0895,Reed Group,EdTech,2017,Mumbai,116,168233,1878902.5,574300.48,36227624.45,Seed,Subscription,False,3.1,0.34,83,True,Medium
+ST0896,Yoder-Holloway,Cybersecurity,2019,Noida,96,74128,710726.11,433687.4,11336720.99,Series B,B2B,False,3.0,0.35,23,True,Low
+ST0897,"Farrell, Carter and Russell",AI,2024,Kolkata,186,152701,1824429.86,2196762.62,26175984.58,Series A,B2C,False,4.6,0.28,22,False,Medium
+ST0898,"Cortez, Jones and Bush",Cybersecurity,2016,Ahmedabad,182,170347,4056432.53,5010314.08,10411975.54,Series A,Marketplace,True,4.2,0.21,96,False,High
+ST0899,"Humphrey, Roberts and Smith",E-commerce,2020,Jaipur,244,69379,166925.77,58405.26,32933692.45,Series C,B2B,False,3.0,0.06,76,True,Low
+ST0900,Hubbard-Walton,FinTech,2017,Chennai,364,28423,3151065.68,4191320.16,444520.19,Series B,B2C,False,3.6,0.14,83,False,Medium
+ST0901,Garrison Inc,Gaming,2022,Delhi,284,49800,3762705.43,2899959.69,30849785.69,Series B,Marketplace,False,4.0,0.28,94,True,Medium
+ST0902,"Orr, Adams and Garcia",FinTech,2021,Kolkata,252,178879,2011753.99,507299.29,46453027.33,Series B,Subscription,True,3.1,0.37,65,True,Medium
+ST0903,Watson Ltd,HealthTech,2017,Chennai,88,135271,840259.82,496389.87,29862715.19,Seed,B2B,False,4.2,0.21,73,True,Medium
+ST0904,Gentry-Perry,Cybersecurity,2019,Hyderabad,410,38083,4009433.22,3192822.23,8308836.95,Series A,B2C,True,2.5,0.07,23,True,Medium
+ST0905,Sanchez Inc,E-commerce,2016,Noida,228,24636,3623430.59,1450746.67,27789644.15,Series C,B2C,False,4.4,0.01,21,True,High
+ST0906,"Brown, Mckinney and Nixon",HealthTech,2021,Chennai,347,99642,4158421.49,4649495.02,38164655.86,Series B,Subscription,False,2.7,0.06,98,False,High
+ST0907,"Adkins, Smith and Brown",EdTech,2020,Chennai,278,19784,1740867.25,1864189.73,48512772.03,Series B,B2B,False,2.6,0.36,23,False,Low
+ST0908,Wallace Ltd,Gaming,2025,Pune,473,21255,3231430.57,1226340.41,9439128.93,Series C,B2C,False,3.0,0.18,44,True,Medium
+ST0909,White LLC,Robotics,2016,Noida,164,102401,3379611.93,2787665.04,13087923.92,Seed,Marketplace,True,4.9,0.08,51,True,High
+ST0910,"Cooper, Bolton and Lewis",AI,2022,Kolkata,340,107030,4019715.78,867823.82,15985337.62,Series C,B2B,False,3.9,0.16,59,True,High
+ST0911,"Harris, Johnson and Sharp",ClimateTech,2020,Ahmedabad,222,68803,3712904.4,1302286.16,40365898.25,Series B,B2B,True,4.8,0.21,100,True,Medium
+ST0912,Evans LLC,SaaS,2019,Delhi,222,140385,3800457.8,5059962.15,4046455.11,Series C,Subscription,True,2.5,0.38,91,False,Medium
+ST0913,Benjamin-Miller,Cybersecurity,2021,Chennai,242,74849,208823.79,277373.48,23039523.25,Series B,B2B,False,2.6,0.24,48,False,Low
+ST0914,"Thomas, Banks and Gaines",AI,2023,Kolkata,96,77871,1790857.96,398957.83,16265395.87,Series A,B2C,True,4.1,0.24,46,True,Medium
+ST0915,Freeman PLC,SaaS,2018,Ahmedabad,278,25791,639012.59,247960.92,24697842.22,Series C,B2B,True,4.7,0.14,59,True,Low
+ST0916,"Bryant, Johnson and Wilson",FinTech,2020,Mumbai,172,98726,201054.03,199477.67,36204319.52,Series C,Subscription,True,4.5,0.05,66,True,Medium
+ST0917,Hill Group,EdTech,2024,Mumbai,99,196760,1291721.44,1354711.03,44152121.83,Series B,B2C,True,4.6,0.18,15,False,Medium
+ST0918,Goodman PLC,Robotics,2025,Bangalore,196,151296,2369862.82,2817612.28,21875434.43,Series C,B2C,False,4.4,0.31,36,False,Medium
+ST0919,Shields and Sons,E-commerce,2016,Delhi,144,2324,2041842.13,458055.91,20745525.75,Series A,B2B,False,2.8,0.11,77,True,Low
+ST0920,Taylor Group,E-commerce,2023,Kolkata,118,17704,3060817.53,3509573.66,30485341.89,Series C,B2B,False,3.7,0.17,77,False,Medium
+ST0921,Curtis-Schultz,HealthTech,2025,Kolkata,179,84792,1738367.91,1351925.22,23124280.21,Series B,Subscription,True,4.4,0.09,90,True,Medium
+ST0922,"Salazar, Johnson and Jordan",E-commerce,2019,Mumbai,343,150766,4838940.81,4939587.31,28088220.52,Series B,Subscription,False,3.4,0.09,68,False,High
+ST0923,"Steele, Wilson and Sullivan",Cybersecurity,2023,Noida,20,41868,3128064.86,1303635.41,17613737.58,Series A,Subscription,True,3.6,0.4,3,True,Medium
+ST0924,Lewis Inc,HealthTech,2017,Kolkata,198,160153,4744607.27,1710631.19,19817697.38,Series C,Marketplace,True,3.0,0.05,38,True,High
+ST0925,"Griffin, Soto and Schwartz",E-commerce,2023,Ahmedabad,219,158089,1401609.8,1684243.82,31532269.22,Series C,B2C,False,4.2,0.28,82,False,Medium
+ST0926,Dudley PLC,AI,2023,Chennai,258,199397,2324930.57,2961914.97,22500323.48,Series C,B2C,True,4.8,0.08,37,False,High
+ST0927,Ray PLC,SaaS,2024,Ahmedabad,201,153084,3268990.16,4794044.71,20544175.51,Seed,Subscription,True,4.1,0.25,18,False,Medium
+ST0928,"Garcia, Jones and Flores",SaaS,2025,Kolkata,171,160858,1257204.36,1181895.29,23622081.52,Series A,B2C,False,2.7,0.15,96,True,Medium
+ST0929,Hill PLC,FinTech,2015,Delhi,193,190545,4374504.48,1871300.55,46860187.32,Series C,Subscription,True,4.8,0.14,38,True,High
+ST0930,"Lindsey, White and Wallace",E-commerce,2017,Delhi,355,159138,2223829.45,1144046.27,8885050.77,Series C,B2B,True,3.7,0.26,78,True,Medium
+ST0931,Phillips-Macdonald,Cybersecurity,2023,Hyderabad,388,9473,3413297.75,2485736.54,26012387.39,Seed,Subscription,False,3.7,0.16,54,True,Medium
+ST0932,Fischer-Brown,Robotics,2025,Noida,428,191324,308333.49,387008.21,41423971.57,Series C,B2B,True,4.3,0.03,52,False,Medium
+ST0933,Manning-Silva,E-commerce,2017,Delhi,79,69812,3792122.72,3616758.19,39591346.16,Series C,B2C,False,4.3,0.15,85,True,Medium
+ST0934,Allen-Johnson,E-commerce,2019,Noida,54,87514,3213757.5,952205.57,44964805.8,Series B,Subscription,False,3.7,0.11,34,True,Medium
+ST0935,Ramos-Rodriguez,SaaS,2020,Mumbai,295,73167,2976196.37,3540839.03,7443797.52,Series B,B2C,False,3.2,0.1,48,False,Medium
+ST0936,Pittman-Lewis,Gaming,2019,Delhi,248,187929,2204913.14,1286221.75,37199471.65,Seed,B2C,False,4.2,0.07,38,True,Medium
+ST0937,Simmons-Sanchez,SaaS,2017,Chennai,80,154153,70212.91,47282.1,25454148.45,Series A,Marketplace,False,4.7,0.21,62,True,Low
+ST0938,"Henry, Castillo and Mendoza",FinTech,2020,Delhi,198,128204,3245398.75,4322926.11,24128521.57,Series B,B2C,True,3.7,0.16,86,False,Medium
+ST0939,Conway-Walters,AI,2023,Delhi,81,73958,3047119.76,3496235.86,6023591.42,Series A,Marketplace,True,3.0,0.2,73,False,Medium
+ST0940,Lowery-Reyes,Robotics,2016,Bangalore,209,165207,503211.7,316202.94,3406526.47,Series C,B2C,True,3.9,0.22,95,True,Medium
+ST0941,Jenkins PLC,AI,2024,Mumbai,136,194838,921596.44,1306117.32,42883254.3,Series B,B2B,True,3.1,0.29,23,False,Low
+ST0942,Reed-Ferguson,SaaS,2022,Noida,380,17690,4531643.43,1687192.58,15172904.7,Seed,B2B,False,3.0,0.11,98,True,Medium
+ST0943,"Brown, Hogan and Hill",EdTech,2024,Noida,409,167174,374542.18,307794.55,22122808.64,Series B,B2B,False,3.7,0.05,76,True,Medium
+ST0944,Barnes Ltd,ClimateTech,2015,Mumbai,445,30235,3602707.45,2793663.15,32149236.25,Series C,Marketplace,False,4.0,0.26,97,True,Medium
+ST0945,Ball Ltd,EdTech,2020,Mumbai,328,47276,1649910.6,1366560.82,14223597.43,Series B,Subscription,True,4.1,0.11,69,True,Medium
+ST0946,Jordan Inc,Gaming,2025,Mumbai,392,48757,2443026.4,1502387.49,48719001.79,Seed,Subscription,False,3.7,0.07,9,True,Medium
+ST0947,Barnes and Sons,Cybersecurity,2020,Ahmedabad,331,181082,2697564.57,1180056.02,38950650.09,Series C,B2B,False,4.4,0.09,65,True,High
+ST0948,Brandt-Jones,HealthTech,2024,Pune,479,160783,1059356.71,1137170.07,16222083.13,Series B,Subscription,False,3.0,0.16,22,False,Medium
+ST0949,Good Inc,Cybersecurity,2020,Chennai,404,191439,1354222.1,1913104.97,23625484.61,Series B,Subscription,False,4.6,0.13,19,False,Medium
+ST0950,Fleming LLC,HealthTech,2022,Mumbai,222,148662,1973775.61,1465056.12,38123026.07,Seed,B2C,True,3.5,0.39,46,True,Medium
+ST0951,Weaver-Patterson,Robotics,2018,Delhi,343,188871,1287087.36,1650454.33,1232765.95,Series C,Marketplace,True,3.6,0.16,72,False,Medium
+ST0952,"Gomez, Joyce and Robertson",Gaming,2022,Delhi,43,64737,810485.55,923713.54,47077633.16,Series B,Subscription,True,4.0,0.38,6,False,Low
+ST0953,"Lowery, Butler and Jackson",FinTech,2020,Kolkata,56,15710,3201747.04,1789328.63,18503969.01,Series A,B2C,False,4.8,0.05,18,True,Medium
+ST0954,"Miller, Avery and Hurst",Robotics,2019,Bangalore,298,53427,2813563.56,2165711.17,16425713.55,Series A,B2B,False,3.9,0.27,72,True,Medium
+ST0955,Brown Ltd,E-commerce,2020,Delhi,495,95694,4526466.44,3528799.21,44235031.65,Series B,Marketplace,True,3.0,0.19,59,True,High
+ST0956,Klein-Wheeler,Robotics,2020,Bangalore,76,32245,3214778.78,2428862.48,40312937.28,Series C,B2B,False,4.5,0.33,8,True,Medium
+ST0957,Jackson-Williams,FinTech,2023,Pune,409,142245,2465127.26,2335116.72,31736973.52,Seed,Subscription,True,4.3,0.23,72,True,Medium
+ST0958,Ortega PLC,HealthTech,2025,Chennai,389,20158,3837905.27,2917693.59,13879402.36,Seed,B2C,False,3.6,0.35,95,True,Medium
+ST0959,"Ortiz, Richards and Alvarez",AI,2024,Kolkata,237,139337,3907753.44,4538059.2,47427759.38,Seed,B2B,True,4.7,0.17,38,False,High
+ST0960,Bartlett-Davenport,EdTech,2024,Chennai,170,112974,760969.65,998580.16,29239605.26,Series A,B2C,True,4.4,0.22,84,False,Low
+ST0961,Cooke and Sons,E-commerce,2016,Chennai,110,81866,916117.74,214455.69,30115977.35,Series B,B2C,True,4.6,0.31,70,True,Low
+ST0962,Davis Inc,HealthTech,2022,Hyderabad,108,80411,824811.66,1227571.08,11687293.56,Series C,B2B,False,4.8,0.31,4,False,Low
+ST0963,"Hess, Turner and Clark",Gaming,2024,Hyderabad,449,196020,4272398.68,2012981.88,2508253.88,Seed,B2C,True,3.6,0.09,99,True,High
+ST0964,Gilbert Inc,EdTech,2018,Hyderabad,88,199339,1056093.47,1502720.15,37045067.94,Series B,Subscription,False,3.4,0.4,54,False,Low
+ST0965,Hobbs Inc,E-commerce,2020,Mumbai,265,30358,4725035.25,1044181.28,19032455.19,Seed,Subscription,False,3.6,0.39,13,True,Medium
+ST0966,"Martin, Terry and Perez",E-commerce,2015,Pune,122,184819,431412.84,447226.94,19514826.24,Series A,B2C,True,3.7,0.38,36,False,Low
+ST0967,Wood-Tran,Cybersecurity,2020,Jaipur,70,136953,787233.99,868784.56,38126277.63,Series C,B2C,False,2.7,0.32,95,False,Low
+ST0968,Galvan-Robertson,HealthTech,2015,Noida,93,46780,4682095.02,6811934.37,37111235.21,Series A,Marketplace,False,4.5,0.08,15,False,High
+ST0969,Salazar Inc,AI,2017,Kolkata,325,98827,4545814.45,2476267.64,16087583.12,Seed,Subscription,True,4.5,0.14,61,True,High
+ST0970,"Barnes, Duncan and Wilkerson",ClimateTech,2021,Ahmedabad,85,27244,84542.92,115514.82,4651588.76,Series C,B2C,True,5.0,0.05,61,False,Low
+ST0971,Ramirez-Smith,FinTech,2022,Noida,164,125844,2352740.03,3232071.52,6453520.63,Series A,B2C,True,4.1,0.15,79,False,Medium
+ST0972,Smith-Finley,SaaS,2016,Delhi,268,35028,4029182.93,1552743.11,32977536.0,Series A,Marketplace,True,4.4,0.29,37,True,Medium
+ST0973,Bradley Inc,HealthTech,2020,Kolkata,378,173849,1512529.65,1699476.21,23134350.7,Series B,B2C,True,4.0,0.21,35,False,Medium
+ST0974,Knight-Fuller,HealthTech,2021,Chennai,387,101933,3163082.32,3898351.29,48977554.42,Seed,Subscription,False,2.5,0.26,31,False,Medium
+ST0975,Ortiz PLC,SaaS,2019,Ahmedabad,444,91151,946863.84,1259692.12,48540449.68,Series C,B2B,False,3.5,0.4,59,False,Low
+ST0976,Mcbride-Roberts,Robotics,2022,Hyderabad,340,135870,4620189.3,2949671.93,44631715.86,Series B,Marketplace,True,3.1,0.32,63,True,Medium
+ST0977,Jones-Howard,FinTech,2023,Mumbai,405,96793,2138307.45,498307.29,27188773.39,Series A,Marketplace,False,2.7,0.39,15,True,Low
+ST0978,Smith Inc,EdTech,2017,Delhi,236,115337,2770959.72,3938678.77,48316312.96,Seed,B2C,False,4.9,0.08,66,False,Medium
+ST0979,Brown-Alexander,EdTech,2023,Pune,274,158531,3901889.09,3635576.98,26551548.95,Series B,B2C,True,2.6,0.22,70,True,Medium
+ST0980,Ramirez LLC,SaaS,2021,Delhi,353,44420,3178187.63,4184475.12,11351561.85,Series B,B2B,False,4.8,0.29,70,False,Medium
+ST0981,Nguyen PLC,AI,2016,Mumbai,156,103176,4505773.53,6594702.06,44692537.5,Series B,B2C,True,3.7,0.06,39,False,High
+ST0982,Taylor-Williamson,Gaming,2017,Kolkata,35,198963,2057773.89,796212.47,41130940.5,Series C,B2C,True,4.4,0.32,32,True,Medium
+ST0983,"Logan, Finley and Knight",SaaS,2025,Pune,432,92857,361952.87,525687.52,13847082.68,Series A,Subscription,True,4.7,0.06,95,False,Medium
+ST0984,"Jones, Porter and Williams",SaaS,2022,Delhi,349,73212,3805317.13,814336.91,5908736.06,Series C,Marketplace,True,3.3,0.05,81,True,Medium
+ST0985,"Estrada, Anthony and Scott",AI,2021,Mumbai,282,195749,3054078.14,1220958.1,44017332.66,Seed,Subscription,False,4.4,0.29,35,True,Medium
+ST0986,"White, King and Carter",FinTech,2024,Jaipur,304,45159,4382449.19,4815733.18,39733057.91,Series B,B2C,False,4.4,0.1,14,False,High
+ST0987,Padilla PLC,Cybersecurity,2019,Ahmedabad,433,184919,4816589.65,3603658.48,31921092.38,Series B,Subscription,False,4.7,0.12,93,True,High
+ST0988,Fernandez Inc,Cybersecurity,2016,Noida,187,22782,74501.29,83964.76,24303160.5,Series C,Subscription,True,4.0,0.1,56,False,Low
+ST0989,Phillips Inc,EdTech,2020,Jaipur,313,29258,2955811.74,3640614.08,47705870.32,Series C,Subscription,True,3.9,0.06,98,False,Medium
+ST0990,Proctor-Martin,Gaming,2025,Bangalore,182,170630,3942800.39,5156800.24,28688578.88,Series A,B2C,True,3.8,0.38,81,False,Medium
+ST0991,Hayden Inc,E-commerce,2025,Chennai,327,87235,503032.96,702671.95,40104667.54,Series B,B2C,False,4.3,0.34,33,False,Low
+ST0992,Murphy-Suarez,Robotics,2025,Chennai,233,13530,1629316.89,1806644.83,31758626.03,Series C,Marketplace,True,4.4,0.07,72,False,Medium
+ST0993,Ward-Mcgrath,E-commerce,2019,Hyderabad,437,132029,4284665.33,2716016.13,30839316.21,Seed,Subscription,False,4.3,0.34,30,True,High
+ST0994,"Brown, Pittman and Swanson",ClimateTech,2020,Pune,323,131336,3200980.27,3788468.41,10147348.42,Series A,Marketplace,True,4.6,0.2,44,False,Medium
+ST0995,"Warren, Bentley and Martinez",HealthTech,2021,Jaipur,62,50752,2913415.71,4024823.86,35026403.64,Seed,B2C,True,3.9,0.31,69,False,Medium
+ST0996,Owens-Huynh,E-commerce,2021,Pune,51,187558,2993867.22,4011820.89,20261622.63,Series C,B2B,False,3.2,0.29,69,False,Medium
+ST0997,Burton-Morris,Cybersecurity,2015,Noida,319,150450,4854018.91,3014283.54,11280001.58,Series A,B2C,True,4.6,0.11,20,True,High
+ST0998,Gonzalez-Jennings,ClimateTech,2022,Kolkata,453,60200,2207375.95,2770219.12,7311566.03,Series A,Subscription,True,3.2,0.39,79,False,Low
+ST0999,Love Group,E-commerce,2019,Kolkata,439,136940,2908669.11,2953554.65,44435776.85,Series B,Marketplace,True,4.9,0.3,91,False,Medium
+ST1000,"Mills, Schmidt and Edwards",Robotics,2024,Pune,168,142654,1791800.12,2590080.08,6767915.46,Seed,Subscription,False,4.6,0.39,32,False,Medium
